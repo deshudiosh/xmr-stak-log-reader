@@ -4,24 +4,36 @@ from tkinter import Tk, filedialog
 
 def interpret_groups(groups):
     for group in groups:
+        session_start = session_end = None
+
+        # find first date in group
         for line in group:
-            # find first date in group
-            date_start = line.find("[")
-            date_end = line.find("]")
+            date_start = line.find('[')
+            date_end = line.find(']')
             if date_start > -1 and date_end > -1:
                 session_start = datetime.strptime(line[date_start+1:date_end], '%Y-%m-%d %H:%M:%S')
                 break
 
+        # find last date in group
         for line in reversed(group):
-            # find first date in group
-            date_start = line.find("[")
-            date_end = line.find("]")
+            # consider only 'Result accepted' lines as the ones that finish session
+            if line.find('Result accepted by the pool') < 0:
+                continue
+
+            date_start = line.find('[')
+            date_end = line.find(']')
             if date_start > -1 and date_end > -1:
-                session_last = datetime.strptime(line[date_start + 1:date_end], '%Y-%m-%d %H:%M:%S')
+                session_end = datetime.strptime(line[date_start + 1:date_end], '%Y-%m-%d %H:%M:%S')
                 break
 
-        duration = session_last - session_start
-        print(duration)
+        if session_start and session_end:
+            duration = session_end - session_start
+        else:
+            duration = "info not found"
+
+        print('--> Started at:', session_start, '  Session Duration: ', duration)
+
+        #TODO: merge sessions when within X minutes scope
 
 
 def group_lines(lines):

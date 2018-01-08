@@ -5206,3 +5206,590 @@ Highest:  1987.0 H/s
 [2018-01-08 15:19:44] : Difficulty changed. Now: 11364.
 [2018-01-08 15:19:44] : New block detected.
 [2018-01-08 15:19:47] : Result accepted by the pool.
+[2018-01-08 15:19:52] : Result accepted by the pool.
+[2018-01-08 15:19:58] : Result accepted by the pool.
+[2018-01-08 15:20:07] : Result accepted by the pool.
+[2018-01-08 15:20:13] : Result accepted by the pool.
+[2018-01-08 15:20:17] : Result accepted by the pool.
+[2018-01-08 15:20:25] : Result accepted by the pool.
+[2018-01-08 15:20:30] : Result accepted by the pool.
+[2018-01-08 15:20:47] : Result accepted by the pool.
+[2018-01-08 15:20:47] : Result accepted by the pool.
+[2018-01-08 15:20:50] : Result accepted by the pool.
+[2018-01-08 15:21:16] : Result accepted by the pool.
+[2018-01-08 15:21:17] : Result accepted by the pool.
+[2018-01-08 15:21:19] : Result accepted by the pool.
+[2018-01-08 15:21:21] : Result accepted by the pool.
+[2018-01-08 15:21:22] : Result accepted by the pool.
+[2018-01-08 15:21:26] : Result accepted by the pool.
+[2018-01-08 15:21:33] : Result accepted by the pool.
+[2018-01-08 15:21:36] : Result accepted by the pool.
+[2018-01-08 15:21:44] : Result accepted by the pool.
+[2018-01-08 15:21:44] : Difficulty changed. Now: 18745.
+[2018-01-08 15:21:44] : New block detected.
+[2018-01-08 15:21:58] : Result accepted by the pool.
+[2018-01-08 15:22:05] : Result accepted by the pool.
+[2018-01-08 15:22:07] : Result accepted by the pool.
+[2018-01-08 15:22:20] : Result accepted by the pool.
+[2018-01-08 15:22:20] : Result accepted by the pool.
+[2018-01-08 15:22:25] : Result accepted by the pool.
+[2018-01-08 15:22:45] : Result accepted by the pool.
+[2018-01-08 15:22:58] : New block detected.
+[2018-01-08 15:23:11] : Result accepted by the pool.
+[2018-01-08 15:23:18] : Result accepted by the pool.
+[2018-01-08 15:23:23] : Result accepted by the pool.
+[2018-01-08 15:23:26] : Result accepted by the pool.
+[2018-01-08 15:23:37] : Result accepted by the pool.
+[2018-01-08 15:23:39] : New block detected.
+[2018-01-08 15:23:40] : Result accepted by the pool.
+[2018-01-08 15:23:46] : Result accepted by the pool.
+[2018-01-08 15:23:49] : Result accepted by the pool.
+[2018-01-08 15:23:49] : Result accepted by the pool.
+[2018-01-08 15:23:58] : Result accepted by the pool.
+[2018-01-08 15:24:08] : Result accepted by the pool.
+[2018-01-08 15:24:10] : Result accepted by the pool.
+[2018-01-08 15:24:19] : Result accepted by the pool.
+[2018-01-08 15:24:35] : Result accepted by the pool.
+[2018-01-08 15:24:39] : Result accepted by the pool.
+[2018-01-08 15:24:43] : Result accepted by the pool.
+[2018-01-08 15:24:46] : Result accepted by the pool.
+[2018-01-08 15:24:53] : Result accepted by the pool.
+[2018-01-08 15:25:03] : Result accepted by the pool.
+[2018-01-08 15:25:14] : Difficulty changed. Now: 30295.
+[2018-01-08 15:25:14] : New block detected.
+[2018-01-08 15:25:44] : Difficulty changed. Now: 10000.
+[2018-01-08 15:25:44] : New block detected.
+[2018-01-08 15:25:52] : New block detected.
+[2018-01-08 15:25:57] : Result accepted by the pool.
+[2018-01-08 15:26:00] : Result accepted by the pool.
+[2018-01-08 15:26:04] : Result accepted by the pool.
+[2018-01-08 15:26:07] : Result accepted by the pool.
+[2018-01-08 15:26:09] : Result accepted by the pool.
+[2018-01-08 15:26:13] : Result accepted by the pool.
+[2018-01-08 15:26:14] : Difficulty changed. Now: 20000.
+[2018-01-08 15:26:14] : New block detected.
+[2018-01-08 15:26:15] : Result accepted by the pool.
+[2018-01-08 15:26:18] : Result accepted by the pool.
+[2018-01-08 15:26:26] : Result accepted by the pool.
+[2018-01-08 15:26:36] : Result accepted by the pool.
+[2018-01-08 15:26:44] : Difficulty changed. Now: 33333.
+[2018-01-08 15:26:44] : New block detected.
+[2018-01-08 15:26:56] : Result accepted by the pool.
+[2018-01-08 15:27:07] : Result accepted by the pool.
+[2018-01-08 15:27:15] : Difficulty changed. Now: 22222.
+[2018-01-08 15:27:15] : New block detected.
+[2018-01-08 15:27:17] : Result accepted by the pool.
+[2018-01-08 15:27:18] : Result accepted by the pool.
+[2018-01-08 15:27:19] : Result accepted by the pool.
+[2018-01-08 15:27:24] : Result accepted by the pool.
+[2018-01-08 15:27:26] : New block detected.
+[2018-01-08 15:27:37] : Result accepted by the pool.
+[2018-01-08 15:27:40] : Result accepted by the pool.
+[2018-01-08 15:27:45] : Difficulty changed. Now: 40404.
+[2018-01-08 15:27:45] : New block detected.
+[2018-01-08 15:28:03] : Result accepted by the pool.
+[2018-01-08 15:28:15] : Difficulty changed. Now: 17567.
+[2018-01-08 15:28:15] : New block detected.
+[2018-01-08 15:28:22] : Result accepted by the pool.
+[2018-01-08 15:28:45] : Difficulty changed. Now: 10000.
+[2018-01-08 15:28:45] : New block detected.
+[2018-01-08 15:28:55] : Result accepted by the pool.
+[2018-01-08 15:29:13] : Result accepted by the pool.
+[2018-01-08 15:29:31] : Result accepted by the pool.
+[2018-01-08 15:29:31] : Result accepted by the pool.
+[2018-01-08 15:29:40] : Result accepted by the pool.
+[2018-01-08 15:29:49] : Result accepted by the pool.
+[2018-01-08 15:29:52] : Result accepted by the pool.
+[2018-01-08 15:29:54] : Result accepted by the pool.
+[2018-01-08 15:30:07] : Result accepted by the pool.
+[2018-01-08 15:30:12] : Result accepted by the pool.
+[2018-01-08 15:30:13] : Result accepted by the pool.
+[2018-01-08 15:30:15] : Result accepted by the pool.
+[2018-01-08 15:30:31] : Result accepted by the pool.
+[2018-01-08 15:30:32] : Result accepted by the pool.
+[2018-01-08 15:30:38] : Result accepted by the pool.
+[2018-01-08 15:30:51] : Result accepted by the pool.
+[2018-01-08 15:30:53] : Result accepted by the pool.
+[2018-01-08 15:30:56] : Result accepted by the pool.
+[2018-01-08 15:30:58] : Result accepted by the pool.
+[2018-01-08 15:31:00] : Result accepted by the pool.
+[2018-01-08 15:31:04] : Result accepted by the pool.
+[2018-01-08 15:31:15] : Difficulty changed. Now: 19048.
+[2018-01-08 15:31:15] : New block detected.
+[2018-01-08 15:31:18] : Result accepted by the pool.
+[2018-01-08 15:31:18] : New block detected.
+[2018-01-08 15:31:20] : Result accepted by the pool.
+[2018-01-08 15:31:37] : Result accepted by the pool.
+[2018-01-08 15:31:41] : Result accepted by the pool.
+[2018-01-08 15:31:47] : Result accepted by the pool.
+[2018-01-08 15:31:53] : Result accepted by the pool.
+[2018-01-08 15:32:10] : Result accepted by the pool.
+[2018-01-08 15:32:11] : Result accepted by the pool.
+[2018-01-08 15:32:17] : Result accepted by the pool.
+[2018-01-08 15:32:21] : Result accepted by the pool.
+[2018-01-08 15:32:23] : Result accepted by the pool.
+[2018-01-08 15:32:26] : Result accepted by the pool.
+[2018-01-08 15:32:38] : Result accepted by the pool.
+[2018-01-08 15:32:44] : Result accepted by the pool.
+[2018-01-08 15:32:50] : New block detected.
+[2018-01-08 15:32:54] : Result accepted by the pool.
+[2018-01-08 15:33:11] : Result accepted by the pool.
+[2018-01-08 15:33:46] : Result accepted by the pool.
+[2018-01-08 15:33:50] : Result accepted by the pool.
+[2018-01-08 15:34:02] : Result accepted by the pool.
+[2018-01-08 15:34:05] : Result accepted by the pool.
+[2018-01-08 15:34:13] : Result accepted by the pool.
+[2018-01-08 15:34:26] : Result accepted by the pool.
+[2018-01-08 15:34:31] : Result accepted by the pool.
+[2018-01-08 15:34:42] : Result accepted by the pool.
+[2018-01-08 15:34:50] : Result accepted by the pool.
+[2018-01-08 15:34:56] : Result accepted by the pool.
+[2018-01-08 15:35:00] : Result accepted by the pool.
+[2018-01-08 15:35:32] : Result accepted by the pool.
+[2018-01-08 15:35:48] : New block detected.
+[2018-01-08 15:36:04] : Result accepted by the pool.
+[2018-01-08 15:36:05] : Result accepted by the pool.
+[2018-01-08 15:36:13] : Result accepted by the pool.
+[2018-01-08 15:36:15] : Result accepted by the pool.
+[2018-01-08 15:36:15] : Result accepted by the pool.
+[2018-01-08 15:36:18] : Result accepted by the pool.
+[2018-01-08 15:36:24] : Result accepted by the pool.
+[2018-01-08 15:36:31] : Result accepted by the pool.
+[2018-01-08 15:36:54] : Result accepted by the pool.
+[2018-01-08 15:37:00] : Result accepted by the pool.
+[2018-01-08 15:37:21] : Result accepted by the pool.
+[2018-01-08 15:37:23] : Result accepted by the pool.
+[2018-01-08 15:37:24] : Result accepted by the pool.
+[2018-01-08 15:37:45] : Result accepted by the pool.
+[2018-01-08 15:37:49] : Result accepted by the pool.
+[2018-01-08 15:38:37] : Result accepted by the pool.
+[2018-01-08 15:38:39] : Result accepted by the pool.
+[2018-01-08 15:38:53] : Result accepted by the pool.
+[2018-01-08 15:39:01] : Result accepted by the pool.
+[2018-01-08 15:39:08] : Result accepted by the pool.
+[2018-01-08 15:39:22] : Result accepted by the pool.
+[2018-01-08 15:39:24] : Result accepted by the pool.
+[2018-01-08 15:39:35] : Result accepted by the pool.
+[2018-01-08 15:40:06] : Result accepted by the pool.
+[2018-01-08 15:40:08] : Result accepted by the pool.
+[2018-01-08 15:40:14] : Result accepted by the pool.
+[2018-01-08 15:40:29] : Result accepted by the pool.
+[2018-01-08 15:40:43] : Result accepted by the pool.
+[2018-01-08 15:41:15] : Difficulty changed. Now: 13958.
+[2018-01-08 15:41:15] : New block detected.
+[2018-01-08 15:41:21] : Result accepted by the pool.
+[2018-01-08 15:41:22] : Result accepted by the pool.
+[2018-01-08 15:41:27] : Result accepted by the pool.
+[2018-01-08 15:41:27] : Result accepted by the pool.
+[2018-01-08 15:41:34] : Result accepted by the pool.
+[2018-01-08 15:41:36] : Result accepted by the pool.
+[2018-01-08 15:41:43] : Result accepted by the pool.
+[2018-01-08 15:41:45] : Difficulty changed. Now: 27916.
+[2018-01-08 15:41:45] : New block detected.
+[2018-01-08 15:42:04] : Result accepted by the pool.
+[2018-01-08 15:42:08] : Result accepted by the pool.
+[2018-01-08 15:42:34] : Result accepted by the pool.
+[2018-01-08 15:42:45] : Difficulty changed. Now: 16421.
+[2018-01-08 15:42:45] : New block detected.
+[2018-01-08 15:42:50] : Result accepted by the pool.
+[2018-01-08 15:43:04] : Result accepted by the pool.
+[2018-01-08 15:43:15] : Difficulty changed. Now: 10947.
+[2018-01-08 15:43:15] : New block detected.
+[2018-01-08 15:43:16] : Result accepted by the pool.
+[2018-01-08 15:43:20] : Result accepted by the pool.
+[2018-01-08 15:43:20] : Result accepted by the pool.
+[2018-01-08 15:43:33] : Result accepted by the pool.
+[2018-01-08 15:43:35] : Result accepted by the pool.
+[2018-01-08 15:43:39] : Result accepted by the pool.
+[2018-01-08 15:43:44] : Result accepted by the pool.
+[2018-01-08 15:43:45] : Difficulty changed. Now: 19157.
+[2018-01-08 15:43:45] : New block detected.
+[2018-01-08 15:43:57] : Result accepted by the pool.
+[2018-01-08 15:44:01] : Result accepted by the pool.
+[2018-01-08 15:44:10] : Result accepted by the pool.
+[2018-01-08 15:44:14] : Result accepted by the pool.
+[2018-01-08 15:44:37] : Result accepted by the pool.
+[2018-01-08 15:44:41] : Result accepted by the pool.
+[2018-01-08 15:44:48] : New block detected.
+[2018-01-08 15:45:05] : Result accepted by the pool.
+[2018-01-08 15:45:28] : Result accepted by the pool.
+[2018-01-08 15:45:31] : Result accepted by the pool.
+[2018-01-08 15:45:33] : Result accepted by the pool.
+[2018-01-08 15:45:36] : Result accepted by the pool.
+[2018-01-08 15:45:48] : Result accepted by the pool.
+[2018-01-08 15:45:48] : Result accepted by the pool.
+[2018-01-08 15:45:48] : Result accepted by the pool.
+[2018-01-08 15:45:49] : Result accepted by the pool.
+[2018-01-08 15:46:06] : Result accepted by the pool.
+[2018-01-08 15:46:15] : Result accepted by the pool.
+[2018-01-08 15:46:15] : Result accepted by the pool.
+[2018-01-08 15:46:17] : Result accepted by the pool.
+[2018-01-08 15:46:24] : New block detected.
+[2018-01-08 15:46:30] : Result accepted by the pool.
+[2018-01-08 15:46:38] : Result accepted by the pool.
+[2018-01-08 15:46:45] : Result accepted by the pool.
+[2018-01-08 15:46:47] : Result accepted by the pool.
+[2018-01-08 15:47:18] : New block detected.
+[2018-01-08 15:47:36] : Result accepted by the pool.
+[2018-01-08 15:47:44] : Result accepted by the pool.
+[2018-01-08 15:47:56] : Result accepted by the pool.
+[2018-01-08 15:48:00] : Result accepted by the pool.
+[2018-01-08 15:48:00] : Result accepted by the pool.
+[2018-01-08 15:48:06] : Result accepted by the pool.
+[2018-01-08 15:48:11] : Result accepted by the pool.
+[2018-01-08 15:48:11] : Result accepted by the pool.
+[2018-01-08 15:48:25] : Result accepted by the pool.
+[2018-01-08 15:48:36] : Result accepted by the pool.
+[2018-01-08 15:48:50] : Result accepted by the pool.
+[2018-01-08 15:49:03] : Result accepted by the pool.
+[2018-01-08 15:49:05] : New block detected.
+[2018-01-08 15:49:07] : Result accepted by the pool.
+[2018-01-08 15:49:07] : Result accepted by the pool.
+[2018-01-08 15:49:33] : Result accepted by the pool.
+[2018-01-08 15:49:33] : Result accepted by the pool.
+[2018-01-08 15:49:36] : Result accepted by the pool.
+[2018-01-08 15:49:49] : Result accepted by the pool.
+[2018-01-08 15:50:05] : Result accepted by the pool.
+[2018-01-08 15:50:39] : Result accepted by the pool.
+[2018-01-08 15:50:43] : Result accepted by the pool.
+[2018-01-08 15:50:58] : Result accepted by the pool.
+[2018-01-08 15:51:01] : Result accepted by the pool.
+[2018-01-08 15:51:04] : Result accepted by the pool.
+[2018-01-08 15:51:07] : Result accepted by the pool.
+[2018-01-08 15:51:36] : New block detected.
+[2018-01-08 15:51:38] : Result accepted by the pool.
+[2018-01-08 15:51:42] : Result accepted by the pool.
+[2018-01-08 15:51:44] : Result accepted by the pool.
+[2018-01-08 15:51:58] : Result accepted by the pool.
+[2018-01-08 15:51:59] : Result accepted by the pool.
+[2018-01-08 15:52:06] : Result accepted by the pool.
+[2018-01-08 15:52:18] : Result accepted by the pool.
+[2018-01-08 15:52:20] : Result accepted by the pool.
+[2018-01-08 15:52:41] : Result accepted by the pool.
+[2018-01-08 15:52:42] : Result accepted by the pool.
+[2018-01-08 15:52:58] : Result accepted by the pool.
+[2018-01-08 15:52:58] : Result accepted by the pool.
+[2018-01-08 15:53:10] : Result accepted by the pool.
+[2018-01-08 15:53:11] : Result accepted by the pool.
+[2018-01-08 15:53:40] : Result accepted by the pool.
+[2018-01-08 15:53:42] : Result accepted by the pool.
+[2018-01-08 15:53:48] : Result accepted by the pool.
+[2018-01-08 15:54:02] : Result accepted by the pool.
+[2018-01-08 15:54:06] : Result accepted by the pool.
+[2018-01-08 15:54:25] : Result accepted by the pool.
+[2018-01-08 15:54:28] : Result accepted by the pool.
+[2018-01-08 15:54:48] : Result accepted by the pool.
+[2018-01-08 15:54:59] : Result accepted by the pool.
+[2018-01-08 15:54:59] : Result accepted by the pool.
+[2018-01-08 15:55:03] : Result accepted by the pool.
+[2018-01-08 15:55:04] : Result accepted by the pool.
+[2018-01-08 15:55:15] : Result accepted by the pool.
+[2018-01-08 15:55:18] : Result accepted by the pool.
+[2018-01-08 15:55:34] : Result accepted by the pool.
+[2018-01-08 15:55:35] : Result accepted by the pool.
+[2018-01-08 15:55:36] : Result accepted by the pool.
+[2018-01-08 15:55:58] : Result accepted by the pool.
+[2018-01-08 15:56:06] : Result accepted by the pool.
+[2018-01-08 15:56:19] : Result accepted by the pool.
+[2018-01-08 15:57:00] : Result accepted by the pool.
+[2018-01-08 15:57:03] : Result accepted by the pool.
+[2018-01-08 15:57:08] : Result accepted by the pool.
+[2018-01-08 15:57:32] : Result accepted by the pool.
+[2018-01-08 15:57:43] : Result accepted by the pool.
+[2018-01-08 15:57:46] : Result accepted by the pool.
+[2018-01-08 15:57:57] : Result accepted by the pool.
+[2018-01-08 15:58:03] : New block detected.
+[2018-01-08 15:58:06] : Result accepted by the pool.
+[2018-01-08 15:58:38] : Result accepted by the pool.
+[2018-01-08 15:58:51] : Result accepted by the pool.
+[2018-01-08 15:58:51] : Result accepted by the pool.
+[2018-01-08 15:59:09] : Result accepted by the pool.
+[2018-01-08 15:59:16] : Difficulty changed. Now: 14256.
+[2018-01-08 15:59:16] : New block detected.
+[2018-01-08 15:59:23] : Result accepted by the pool.
+[2018-01-08 15:59:28] : New block detected.
+[2018-01-08 15:59:36] : New block detected.
+[2018-01-08 15:59:46] : Difficulty changed. Now: 10000.
+[2018-01-08 15:59:46] : New block detected.
+[2018-01-08 15:59:48] : Result accepted by the pool.
+[2018-01-08 15:59:53] : Result accepted by the pool.
+[2018-01-08 15:59:53] : Result accepted by the pool.
+[2018-01-08 15:59:55] : Result accepted by the pool.
+[2018-01-08 16:00:01] : Result accepted by the pool.
+[2018-01-08 16:00:01] : Result accepted by the pool.
+[2018-01-08 16:00:06] : Result accepted by the pool.
+[2018-01-08 16:00:13] : Result accepted by the pool.
+[2018-01-08 16:00:16] : Difficulty changed. Now: 20000.
+[2018-01-08 16:00:16] : New block detected.
+[2018-01-08 16:00:19] : Result accepted by the pool.
+[2018-01-08 16:00:23] : Result accepted by the pool.
+[2018-01-08 16:00:41] : Result accepted by the pool.
+[2018-01-08 16:00:42] : Result accepted by the pool.
+[2018-01-08 16:00:47] : Result accepted by the pool.
+[2018-01-08 16:00:48] : Result accepted by the pool.
+[2018-01-08 16:00:49] : Result accepted by the pool.
+[2018-01-08 16:00:50] : Result accepted by the pool.
+[2018-01-08 16:01:08] : Result accepted by the pool.
+[2018-01-08 16:01:10] : Result accepted by the pool.
+[2018-01-08 16:01:16] : Difficulty changed. Now: 35088.
+[2018-01-08 16:01:16] : New block detected.
+[2018-01-08 16:01:20] : Result accepted by the pool.
+[2018-01-08 16:01:46] : Difficulty changed. Now: 20050.
+[2018-01-08 16:01:46] : New block detected.
+[2018-01-08 16:01:58] : Result accepted by the pool.
+[2018-01-08 16:02:00] : Result accepted by the pool.
+[2018-01-08 16:02:30] : Result accepted by the pool.
+[2018-01-08 16:02:46] : Difficulty changed. Now: 13367.
+[2018-01-08 16:02:46] : New block detected.
+[2018-01-08 16:02:49] : Result accepted by the pool.
+[2018-01-08 16:02:58] : Result accepted by the pool.
+[2018-01-08 16:02:59] : Result accepted by the pool.
+[2018-01-08 16:03:14] : New block detected.
+[2018-01-08 16:03:23] : Result accepted by the pool.
+[2018-01-08 16:03:26] : Result accepted by the pool.
+[2018-01-08 16:03:29] : Result accepted by the pool.
+[2018-01-08 16:03:29] : New block detected.
+[2018-01-08 16:03:34] : Result accepted by the pool.
+[2018-01-08 16:03:38] : Result accepted by the pool.
+[2018-01-08 16:03:46] : Difficulty changed. Now: 20565.
+[2018-01-08 16:03:46] : New block detected.
+[2018-01-08 16:03:51] : Result accepted by the pool.
+[2018-01-08 16:03:57] : Result accepted by the pool.
+[2018-01-08 16:04:07] : Result accepted by the pool.
+[2018-01-08 16:04:14] : Result accepted by the pool.
+[2018-01-08 16:04:14] : Result accepted by the pool.
+[2018-01-08 16:04:16] : Result accepted by the pool.
+[2018-01-08 16:04:16] : Result accepted by the pool.
+[2018-01-08 16:04:16] : Difficulty changed. Now: 37883.
+[2018-01-08 16:04:16] : New block detected.
+[2018-01-08 16:04:46] : Difficulty changed. Now: 12220.
+[2018-01-08 16:04:46] : New block detected.
+[2018-01-08 16:04:55] : Result accepted by the pool.
+[2018-01-08 16:04:59] : Result accepted by the pool.
+[2018-01-08 16:05:05] : Result accepted by the pool.
+[2018-01-08 16:05:07] : Result accepted by the pool.
+[2018-01-08 16:05:09] : Result accepted by the pool.
+[2018-01-08 16:05:16] : Difficulty changed. Now: 24440.
+[2018-01-08 16:05:16] : New block detected.
+[2018-01-08 16:05:25] : Result accepted by the pool.
+[2018-01-08 16:05:30] : Result accepted by the pool.
+[2018-01-08 16:05:33] : Result accepted by the pool.
+[2018-01-08 16:05:50] : Result accepted by the pool.
+[2018-01-08 16:06:05] : Result accepted by the pool.
+[2018-01-08 16:06:26] : Result accepted by the pool.
+[2018-01-08 16:06:45] : Result accepted by the pool.
+[2018-01-08 16:06:46] : Difficulty changed. Now: 17637.
+[2018-01-08 16:06:46] : New block detected.
+[2018-01-08 16:06:53] : Result accepted by the pool.
+[2018-01-08 16:06:58] : Result accepted by the pool.
+[2018-01-08 16:07:03] : Result accepted by the pool.
+[2018-01-08 16:07:19] : Result accepted by the pool.
+[2018-01-08 16:07:26] : Result accepted by the pool.
+[2018-01-08 16:07:32] : Result accepted by the pool.
+[2018-01-08 16:07:48] : Result accepted by the pool.
+[2018-01-08 16:07:57] : Result accepted by the pool.
+[2018-01-08 16:08:07] : Result accepted by the pool.
+[2018-01-08 16:08:17] : Result accepted by the pool.
+[2018-01-08 16:08:26] : New block detected.
+[2018-01-08 16:08:31] : Result accepted by the pool.
+[2018-01-08 16:08:32] : Result accepted by the pool.
+[2018-01-08 16:08:49] : Result accepted by the pool.
+[2018-01-08 16:08:59] : Result accepted by the pool.
+[2018-01-08 16:09:01] : Result accepted by the pool.
+[2018-01-08 16:09:12] : Result accepted by the pool.
+[2018-01-08 16:09:24] : Result accepted by the pool.
+[2018-01-08 16:09:33] : Result accepted by the pool.
+[2018-01-08 16:09:36] : Result accepted by the pool.
+[2018-01-08 16:09:55] : New block detected.
+[2018-01-08 16:10:26] : Result accepted by the pool.
+[2018-01-08 16:10:29] : Result accepted by the pool.
+[2018-01-08 16:10:29] : Result accepted by the pool.
+[2018-01-08 16:10:33] : Result accepted by the pool.
+[2018-01-08 16:10:42] : Result accepted by the pool.
+[2018-01-08 16:11:27] : Result accepted by the pool.
+[2018-01-08 16:11:36] : Result accepted by the pool.
+[2018-01-08 16:11:36] : New block detected.
+[2018-01-08 16:11:46] : Result accepted by the pool.
+[2018-01-08 16:11:56] : Result accepted by the pool.
+[2018-01-08 16:12:04] : Result accepted by the pool.
+[2018-01-08 16:12:17] : Result accepted by the pool.
+[2018-01-08 16:12:20] : New block detected.
+[2018-01-08 16:12:33] : Result accepted by the pool.
+[2018-01-08 16:12:38] : Result accepted by the pool.
+[2018-01-08 16:12:38] : Result accepted by the pool.
+[2018-01-08 16:12:53] : Result accepted by the pool.
+[2018-01-08 16:12:58] : Result accepted by the pool.
+[2018-01-08 16:13:02] : Result accepted by the pool.
+[2018-01-08 16:13:19] : Result accepted by the pool.
+[2018-01-08 16:13:28] : Result accepted by the pool.
+[2018-01-08 16:13:31] : Result accepted by the pool.
+[2018-01-08 16:13:33] : Result accepted by the pool.
+[2018-01-08 16:13:42] : Result accepted by the pool.
+[2018-01-08 16:13:45] : Result accepted by the pool.
+[2018-01-08 16:13:52] : Result accepted by the pool.
+[2018-01-08 16:14:03] : Result accepted by the pool.
+[2018-01-08 16:14:04] : Result accepted by the pool.
+[2018-01-08 16:14:05] : Result accepted by the pool.
+[2018-01-08 16:14:09] : Result accepted by the pool.
+[2018-01-08 16:14:11] : Result accepted by the pool.
+[2018-01-08 16:14:17] : Difficulty changed. Now: 30343.
+[2018-01-08 16:14:17] : New block detected.
+[2018-01-08 16:14:19] : Result accepted by the pool.
+[2018-01-08 16:14:27] : Result accepted by the pool.
+[2018-01-08 16:14:36] : Result accepted by the pool.
+[2018-01-08 16:14:38] : Result accepted by the pool.
+[2018-01-08 16:14:47] : Difficulty changed. Now: 44953.
+[2018-01-08 16:14:47] : New block detected.
+[2018-01-08 16:15:02] : New block detected.
+[2018-01-08 16:15:17] : Difficulty changed. Now: 11526.
+[2018-01-08 16:15:17] : New block detected.
+[2018-01-08 16:15:20] : Result accepted by the pool.
+[2018-01-08 16:15:34] : Result accepted by the pool.
+[2018-01-08 16:15:37] : Result accepted by the pool.
+[2018-01-08 16:15:41] : Result accepted by the pool.
+[2018-01-08 16:15:47] : Difficulty changed. Now: 18442.
+[2018-01-08 16:15:47] : New block detected.
+[2018-01-08 16:15:53] : New block detected.
+[2018-01-08 16:15:59] : Result accepted by the pool.
+[2018-01-08 16:16:04] : New block detected.
+[2018-01-08 16:16:17] : Difficulty changed. Now: 10538.
+[2018-01-08 16:16:17] : New block detected.
+[2018-01-08 16:16:31] : Result accepted by the pool.
+[2018-01-08 16:16:41] : Result accepted by the pool.
+[2018-01-08 16:16:41] : Result accepted by the pool.
+[2018-01-08 16:16:50] : Result accepted by the pool.
+[2018-01-08 16:16:53] : Result accepted by the pool.
+[2018-01-08 16:16:57] : Result accepted by the pool.
+[2018-01-08 16:17:06] : Result accepted by the pool.
+[2018-01-08 16:17:07] : Result accepted by the pool.
+[2018-01-08 16:17:17] : Difficulty changed. Now: 16861.
+[2018-01-08 16:17:17] : New block detected.
+[2018-01-08 16:17:23] : Result accepted by the pool.
+[2018-01-08 16:17:31] : Result accepted by the pool.
+[2018-01-08 16:17:47] : Difficulty changed. Now: 12646.
+[2018-01-08 16:17:47] : New block detected.
+[2018-01-08 16:18:02] : Result accepted by the pool.
+[2018-01-08 16:18:02] : Result accepted by the pool.
+[2018-01-08 16:18:08] : Result accepted by the pool.
+[2018-01-08 16:18:08] : Result accepted by the pool.
+[2018-01-08 16:18:17] : Difficulty changed. Now: 24088.
+[2018-01-08 16:18:17] : New block detected.
+[2018-01-08 16:18:44] : Result accepted by the pool.
+[2018-01-08 16:18:47] : Difficulty changed. Now: 10000.
+[2018-01-08 16:18:47] : New block detected.
+[2018-01-08 16:18:54] : Result accepted by the pool.
+[2018-01-08 16:18:57] : Result accepted by the pool.
+[2018-01-08 16:19:08] : Result accepted by the pool.
+[2018-01-08 16:19:10] : Result accepted by the pool.
+[2018-01-08 16:19:11] : Result accepted by the pool.
+[2018-01-08 16:19:12] : Result accepted by the pool.
+[2018-01-08 16:19:13] : Result accepted by the pool.
+[2018-01-08 16:19:17] : Difficulty changed. Now: 20000.
+[2018-01-08 16:19:17] : New block detected.
+[2018-01-08 16:19:29] : Result accepted by the pool.
+[2018-01-08 16:19:32] : Result accepted by the pool.
+[2018-01-08 16:19:35] : New block detected.
+[2018-01-08 16:19:36] : Result accepted by the pool.
+[2018-01-08 16:19:42] : Result accepted by the pool.
+[2018-01-08 16:19:46] : Result accepted by the pool.
+[2018-01-08 16:19:47] : Difficulty changed. Now: 30303.
+[2018-01-08 16:19:47] : New block detected.
+[2018-01-08 16:20:17] : Difficulty changed. Now: 10000.
+[2018-01-08 16:20:17] : New block detected.
+[2018-01-08 16:20:17] : Result accepted by the pool.
+[2018-01-08 16:20:25] : Result accepted by the pool.
+[2018-01-08 16:20:39] : Result accepted by the pool.
+[2018-01-08 16:20:44] : New block detected.
+[2018-01-08 16:20:46] : Result accepted by the pool.
+[2018-01-08 16:20:49] : Result accepted by the pool.
+[2018-01-08 16:20:52] : Result accepted by the pool.
+[2018-01-08 16:20:53] : Result accepted by the pool.
+[2018-01-08 16:20:58] : Result accepted by the pool.
+[2018-01-08 16:20:58] : Result accepted by the pool.
+[2018-01-08 16:20:59] : Result accepted by the pool.
+[2018-01-08 16:21:12] : Result accepted by the pool.
+[2018-01-08 16:21:17] : Result accepted by the pool.
+[2018-01-08 16:21:17] : Difficulty changed. Now: 20000.
+[2018-01-08 16:21:17] : New block detected.
+[2018-01-08 16:21:25] : Result accepted by the pool.
+[2018-01-08 16:21:25] : Result accepted by the pool.
+[2018-01-08 16:21:29] : New block detected.
+[2018-01-08 16:21:52] : Result accepted by the pool.
+[2018-01-08 16:22:03] : Result accepted by the pool.
+[2018-01-08 16:22:22] : Result accepted by the pool.
+[2018-01-08 16:22:22] : Result accepted by the pool.
+[2018-01-08 16:22:37] : Result accepted by the pool.
+[2018-01-08 16:22:40] : Result accepted by the pool.
+[2018-01-08 16:22:52] : Result accepted by the pool.
+[2018-01-08 16:22:57] : Result accepted by the pool.
+[2018-01-08 16:23:02] : Result accepted by the pool.
+[2018-01-08 16:23:06] : Result accepted by the pool.
+[2018-01-08 16:23:10] : Result accepted by the pool.
+[2018-01-08 16:23:28] : Result accepted by the pool.
+[2018-01-08 16:23:33] : Result accepted by the pool.
+[2018-01-08 16:23:34] : Result accepted by the pool.
+[2018-01-08 16:23:37] : Result accepted by the pool.
+[2018-01-08 16:23:37] : New block detected.
+[2018-01-08 16:23:41] : Result accepted by the pool.
+[2018-01-08 16:23:59] : Result accepted by the pool.
+[2018-01-08 16:24:18] : Result accepted by the pool.
+[2018-01-08 16:24:30] : Result accepted by the pool.
+[2018-01-08 16:24:38] : Result accepted by the pool.
+[2018-01-08 16:24:57] : Result accepted by the pool.
+[2018-01-08 16:25:06] : Result accepted by the pool.
+[2018-01-08 16:25:26] : Result accepted by the pool.
+[2018-01-08 16:25:44] : Result accepted by the pool.
+[2018-01-08 16:25:45] : Result accepted by the pool.
+[2018-01-08 16:25:46] : Result accepted by the pool.
+[2018-01-08 16:25:51] : Result accepted by the pool.
+[2018-01-08 16:26:08] : Result accepted by the pool.
+[2018-01-08 16:26:21] : Result accepted by the pool.
+[2018-01-08 16:26:29] : Result accepted by the pool.
+[2018-01-08 16:26:48] : Result accepted by the pool.
+[2018-01-08 16:26:49] : Result accepted by the pool.
+[2018-01-08 16:27:00] : Result accepted by the pool.
+[2018-01-08 16:27:01] : Result accepted by the pool.
+[2018-01-08 16:27:10] : Result accepted by the pool.
+[2018-01-08 16:27:15] : New block detected.
+[2018-01-08 16:27:31] : Result accepted by the pool.
+[2018-01-08 16:28:00] : Result accepted by the pool.
+[2018-01-08 16:28:04] : Result accepted by the pool.
+[2018-01-08 16:28:15] : Result accepted by the pool.
+[2018-01-08 16:28:16] : Result accepted by the pool.
+[2018-01-08 16:28:17] : Result accepted by the pool.
+[2018-01-08 16:28:32] : New block detected.
+[2018-01-08 16:28:59] : Result accepted by the pool.
+[2018-01-08 16:29:19] : Result accepted by the pool.
+[2018-01-08 16:29:22] : Result accepted by the pool.
+[2018-01-08 16:29:36] : Result accepted by the pool.
+[2018-01-08 16:29:44] : Result accepted by the pool.
+[2018-01-08 16:29:52] : Result accepted by the pool.
+[2018-01-08 16:30:00] : New block detected.
+[2018-01-08 16:30:25] : Result accepted by the pool.
+[2018-01-08 16:30:43] : Result accepted by the pool.
+[2018-01-08 16:30:48] : Difficulty changed. Now: 14286.
+[2018-01-08 16:30:48] : New block detected.
+[2018-01-08 16:30:48] : Result accepted by the pool.
+[2018-01-08 16:30:54] : Result accepted by the pool.
+[2018-01-08 16:31:06] : New block detected.
+[2018-01-08 16:31:16] : Result accepted by the pool.
+[2018-01-08 16:31:21] : Result accepted by the pool.
+[2018-01-08 16:31:26] : Result accepted by the pool.
+[2018-01-08 16:31:40] : Result accepted by the pool.
+[2018-01-08 16:31:41] : Result accepted by the pool.
+[2018-01-08 16:31:43] : New block detected.
+[2018-01-08 16:31:53] : Result accepted by the pool.
+[2018-01-08 16:31:58] : Result accepted by the pool.
+[2018-01-08 16:31:58] : Result accepted by the pool.
+[2018-01-08 16:32:11] : Result accepted by the pool.
+[2018-01-08 16:32:16] : Result accepted by the pool.
+[2018-01-08 16:32:18] : Result accepted by the pool.
+[2018-01-08 16:32:25] : Result accepted by the pool.
+[2018-01-08 16:32:28] : Result accepted by the pool.
+[2018-01-08 16:32:51] : Result accepted by the pool.
+[2018-01-08 16:32:54] : Result accepted by the pool.
+[2018-01-08 16:32:58] : Result accepted by the pool.
+[2018-01-08 16:32:59] : Result accepted by the pool.
+[2018-01-08 16:33:00] : Result accepted by the pool.
+[2018-01-08 16:33:18] : Difficulty changed. Now: 20757.
+[2018-01-08 16:33:18] : New block detected.
