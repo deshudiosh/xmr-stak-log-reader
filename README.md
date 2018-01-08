@@ -3,9 +3,14 @@
 - Designed to group logged data into "sessions"
 - One "session" is single xmr-stak.exe run (for now, this may change)
 
-## Status?
-- Alpha AF
-- Prints session start date and its duration
+## Works (what it outputs so far):
+- Session start time
+- Session duration
+- Session avarage H/s
+
+## Todo:
+- UI
+- Merge sessions within certain time span
 
 ## Usage:
 1. download log_reader.exe

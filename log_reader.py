@@ -17,7 +17,7 @@ def interpret_groups(groups):
         # find last date in group
         for line in reversed(group):
             # consider only 'Result accepted' lines as the ones that finish session
-            if line.find('Result accepted by the pool') < 0:
+            if 'Result accepted by the pool' not in line:
                 continue
 
             date_start = line.find('[')
@@ -26,12 +26,20 @@ def interpret_groups(groups):
                 session_end = datetime.strptime(line[date_start + 1:date_end], '%Y-%m-%d %H:%M:%S')
                 break
 
-        if session_start and session_end:
-            duration = session_end - session_start
-        else:
-            duration = "info not found"
+        # find avg hash rates
+        avghr = 0
+        num_reports = 0
+        for line in group:
+            if 'Totals:' in line:
+                avghr += float(line.split(' ')[3])
+                num_reports += 1
 
-        print('--> Started at:', session_start, '  Session Duration: ', duration)
+        if num_reports > 0: avghr /= num_reports
+        avghr = round(avghr, 2)
+
+        duration = session_end - session_start if (session_start and session_end) else "info not found"
+
+        print('--> Started at:', session_start, '  Session Duration: ', duration, '  Avg H/s:', avghr)
 
         #TODO: merge sessions when within X minutes scope
 
