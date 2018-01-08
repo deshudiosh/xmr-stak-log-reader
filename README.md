@@ -5,7 +5,7 @@
 
 ## Status?
 - Alpha AF
-- Prints date of each session start and its duration
+- Prints session start date and its duration
 
 ## Usage:
 1. download log_reader.exe
