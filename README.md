@@ -1,5 +1,5 @@
 ## What is it?
-- Simple utility to read [xmr-stak](https://github.com/fireice-uk/xmr-stak) miner log files
+- Simple utility to interpret data from [xmr-stak](https://github.com/fireice-uk/xmr-stak) miner log files
 - Designed to group logged data into "Sessions". 
 - One session is single xmr-stak.exe run
 
