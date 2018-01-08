@@ -10,7 +10,7 @@
 ## Usage:
 1. download log_reader.exe
 2. run
-3. when asked to file, point to log file.
+3. when asked for file, point to xmr-stak log file.
 
 
 ![](screenshot.JPG)
