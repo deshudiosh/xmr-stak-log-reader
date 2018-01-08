@@ -1,4 +1,4 @@
-# Simple utility to read xmr-stak log files
+## Simple utility to read xmr-stak log files
 
 # Usage:
 - download log_reader.exe
