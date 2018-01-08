@@ -5793,3 +5793,972 @@ Highest:  1987.0 H/s
 [2018-01-08 16:33:00] : Result accepted by the pool.
 [2018-01-08 16:33:18] : Difficulty changed. Now: 20757.
 [2018-01-08 16:33:18] : New block detected.
+[2018-01-08 16:33:32] : Result accepted by the pool.
+[2018-01-08 16:33:33] : Result accepted by the pool.
+[2018-01-08 16:33:36] : New block detected.
+[2018-01-08 16:33:38] : Result accepted by the pool.
+[2018-01-08 16:33:42] : Result accepted by the pool.
+[2018-01-08 16:33:48] : Difficulty changed. Now: 34595.
+[2018-01-08 16:33:48] : New block detected.
+[2018-01-08 16:34:10] : Result accepted by the pool.
+[2018-01-08 16:34:18] : Difficulty changed. Now: 12355.
+[2018-01-08 16:34:18] : New block detected.
+[2018-01-08 16:34:25] : Result accepted by the pool.
+[2018-01-08 16:34:40] : Result accepted by the pool.
+[2018-01-08 16:34:43] : Result accepted by the pool.
+[2018-01-08 16:34:53] : Result accepted by the pool.
+[2018-01-08 16:34:58] : Result accepted by the pool.
+[2018-01-08 16:35:02] : Result accepted by the pool.
+[2018-01-08 16:35:08] : New block detected.
+[2018-01-08 16:35:10] : Result accepted by the pool.
+[2018-01-08 16:35:18] : Result accepted by the pool.
+[2018-01-08 16:35:33] : Result accepted by the pool.
+[2018-01-08 16:35:43] : Result accepted by the pool.
+[2018-01-08 16:35:59] : Result accepted by the pool.
+[2018-01-08 16:36:03] : Result accepted by the pool.
+[2018-01-08 16:36:11] : Result accepted by the pool.
+[2018-01-08 16:36:12] : Result accepted by the pool.
+[2018-01-08 16:36:14] : Result accepted by the pool.
+[2018-01-08 16:36:15] : Result accepted by the pool.
+[2018-01-08 16:36:16] : Result accepted by the pool.
+[2018-01-08 16:36:18] : Difficulty changed. Now: 17809.
+[2018-01-08 16:36:18] : New block detected.
+[2018-01-08 16:36:22] : Result accepted by the pool.
+[2018-01-08 16:36:31] : Result accepted by the pool.
+[2018-01-08 16:36:48] : Result accepted by the pool.
+[2018-01-08 16:36:52] : Result accepted by the pool.
+[2018-01-08 16:36:57] : Result accepted by the pool.
+[2018-01-08 16:37:01] : Result accepted by the pool.
+[2018-01-08 16:37:05] : Result accepted by the pool.
+[2018-01-08 16:37:15] : Result accepted by the pool.
+[2018-01-08 16:37:19] : New block detected.
+[2018-01-08 16:37:38] : Result accepted by the pool.
+[2018-01-08 16:37:43] : New block detected.
+[2018-01-08 16:37:46] : Result accepted by the pool.
+[2018-01-08 16:37:48] : Result accepted by the pool.
+[2018-01-08 16:37:52] : Result accepted by the pool.
+[2018-01-08 16:37:56] : Result accepted by the pool.
+[2018-01-08 16:38:13] : Result accepted by the pool.
+[2018-01-08 16:38:30] : Result accepted by the pool.
+[2018-01-08 16:38:34] : Result accepted by the pool.
+[2018-01-08 16:38:40] : Result accepted by the pool.
+[2018-01-08 16:38:44] : Result accepted by the pool.
+[2018-01-08 16:38:46] : Result accepted by the pool.
+[2018-01-08 16:38:59] : Result accepted by the pool.
+[2018-01-08 16:39:21] : Result accepted by the pool.
+[2018-01-08 16:39:35] : Result accepted by the pool.
+[2018-01-08 16:39:39] : Result accepted by the pool.
+[2018-01-08 16:39:44] : Result accepted by the pool.
+[2018-01-08 16:39:52] : Result accepted by the pool.
+[2018-01-08 16:39:58] : Result accepted by the pool.
+[2018-01-08 16:40:05] : Result accepted by the pool.
+[2018-01-08 16:40:09] : Result accepted by the pool.
+[2018-01-08 16:40:20] : Result accepted by the pool.
+[2018-01-08 16:40:20] : Result accepted by the pool.
+[2018-01-08 16:40:57] : Result accepted by the pool.
+[2018-01-08 16:41:00] : Result accepted by the pool.
+[2018-01-08 16:41:09] : Result accepted by the pool.
+[2018-01-08 16:41:14] : Result accepted by the pool.
+[2018-01-08 16:41:17] : Result accepted by the pool.
+[2018-01-08 16:41:34] : Result accepted by the pool.
+[2018-01-08 16:41:37] : Result accepted by the pool.
+[2018-01-08 16:41:38] : Result accepted by the pool.
+[2018-01-08 16:41:42] : Result accepted by the pool.
+[2018-01-08 16:41:43] : Result accepted by the pool.
+[2018-01-08 16:41:47] : Result accepted by the pool.
+[2018-01-08 16:42:06] : Result accepted by the pool.
+[2018-01-08 16:42:07] : Result accepted by the pool.
+[2018-01-08 16:42:10] : Result accepted by the pool.
+[2018-01-08 16:42:39] : Result accepted by the pool.
+[2018-01-08 16:42:43] : New block detected.
+[2018-01-08 16:42:48] : New block detected.
+[2018-01-08 16:42:48] : New block detected.
+[2018-01-08 16:42:51] : Result accepted by the pool.
+[2018-01-08 16:42:57] : Result accepted by the pool.
+[2018-01-08 16:42:59] : Result accepted by the pool.
+[2018-01-08 16:43:11] : Result accepted by the pool.
+[2018-01-08 16:43:15] : Result accepted by the pool.
+[2018-01-08 16:43:18] : Result accepted by the pool.
+[2018-01-08 16:43:32] : Result accepted by the pool.
+[2018-01-08 16:43:38] : New block detected.
+[2018-01-08 16:43:44] : Result accepted by the pool.
+[2018-01-08 16:43:50] : Result accepted by the pool.
+[2018-01-08 16:43:54] : Result accepted by the pool.
+[2018-01-08 16:44:04] : Result accepted by the pool.
+[2018-01-08 16:44:10] : Result accepted by the pool.
+[2018-01-08 16:44:26] : Result accepted by the pool.
+[2018-01-08 16:44:27] : Result accepted by the pool.
+[2018-01-08 16:44:28] : Result accepted by the pool.
+[2018-01-08 16:44:39] : Result accepted by the pool.
+[2018-01-08 16:44:54] : Result accepted by the pool.
+[2018-01-08 16:44:59] : Result accepted by the pool.
+[2018-01-08 16:45:01] : Result accepted by the pool.
+[2018-01-08 16:45:01] : Result accepted by the pool.
+[2018-01-08 16:45:08] : Result accepted by the pool.
+[2018-01-08 16:45:13] : Result accepted by the pool.
+[2018-01-08 16:45:21] : Result accepted by the pool.
+[2018-01-08 16:45:46] : Result accepted by the pool.
+[2018-01-08 16:45:48] : Result accepted by the pool.
+[2018-01-08 16:45:57] : Result accepted by the pool.
+[2018-01-08 16:45:57] : Result accepted by the pool.
+[2018-01-08 16:46:11] : Result accepted by the pool.
+[2018-01-08 16:46:17] : Result accepted by the pool.
+[2018-01-08 16:46:19] : Difficulty changed. Now: 25671.
+[2018-01-08 16:46:19] : New block detected.
+[2018-01-08 16:46:21] : Result accepted by the pool.
+[2018-01-08 16:46:31] : Result accepted by the pool.
+[2018-01-08 16:46:48] : Result accepted by the pool.
+[2018-01-08 16:46:57] : Result accepted by the pool.
+[2018-01-08 16:46:59] : Result accepted by the pool.
+[2018-01-08 16:47:11] : Result accepted by the pool.
+[2018-01-08 16:47:37] : Result accepted by the pool.
+[2018-01-08 16:47:43] : Result accepted by the pool.
+[2018-01-08 16:48:02] : New block detected.
+[2018-01-08 16:48:03] : Result accepted by the pool.
+[2018-01-08 16:48:06] : Result accepted by the pool.
+[2018-01-08 16:48:13] : Result accepted by the pool.
+[2018-01-08 16:48:15] : Result accepted by the pool.
+[2018-01-08 16:48:18] : Result accepted by the pool.
+[2018-01-08 16:48:30] : Result accepted by the pool.
+[2018-01-08 16:48:49] : Result accepted by the pool.
+[2018-01-08 16:49:01] : Result accepted by the pool.
+[2018-01-08 16:49:53] : Result accepted by the pool.
+[2018-01-08 16:49:56] : Result accepted by the pool.
+[2018-01-08 16:50:08] : Result accepted by the pool.
+[2018-01-08 16:50:31] : New block detected.
+[2018-01-08 16:50:49] : Difficulty changed. Now: 18184.
+[2018-01-08 16:50:49] : New block detected.
+[2018-01-08 16:50:49] : Result accepted by the pool.
+[2018-01-08 16:50:54] : Result accepted by the pool.
+[2018-01-08 16:50:59] : Result accepted by the pool.
+[2018-01-08 16:51:13] : Result accepted by the pool.
+[2018-01-08 16:51:18] : Result accepted by the pool.
+[2018-01-08 16:51:19] : Difficulty changed. Now: 30307.
+[2018-01-08 16:51:19] : New block detected.
+[2018-01-08 16:51:30] : New block detected.
+[2018-01-08 16:51:37] : Result accepted by the pool.
+[2018-01-08 16:51:49] : Difficulty changed. Now: 16837.
+[2018-01-08 16:51:49] : New block detected.
+[2018-01-08 16:51:52] : Result accepted by the pool.
+[2018-01-08 16:52:04] : Result accepted by the pool.
+[2018-01-08 16:52:08] : New block detected.
+[2018-01-08 16:52:10] : Result accepted by the pool.
+[2018-01-08 16:52:12] : Result accepted by the pool.
+[2018-01-08 16:52:48] : Result accepted by the pool.
+[2018-01-08 16:52:49] : Difficulty changed. Now: 11857.
+[2018-01-08 16:52:49] : New block detected.
+[2018-01-08 16:53:05] : Result accepted by the pool.
+[2018-01-08 16:53:05] : Result accepted by the pool.
+[2018-01-08 16:53:12] : New block detected.
+[2018-01-08 16:53:12] : Result accepted by the pool.
+[2018-01-08 16:53:24] : Result accepted by the pool.
+[2018-01-08 16:53:35] : Result accepted by the pool.
+[2018-01-08 16:53:40] : Result accepted by the pool.
+[2018-01-08 16:53:51] : Result accepted by the pool.
+[2018-01-08 16:54:26] : Result accepted by the pool.
+[2018-01-08 16:54:28] : Result accepted by the pool.
+[2018-01-08 16:54:36] : Result accepted by the pool.
+[2018-01-08 16:54:39] : Result accepted by the pool.
+[2018-01-08 16:54:42] : Result accepted by the pool.
+[2018-01-08 16:54:43] : Result accepted by the pool.
+[2018-01-08 16:54:51] : Result accepted by the pool.
+[2018-01-08 16:54:52] : Result accepted by the pool.
+[2018-01-08 16:55:01] : Result accepted by the pool.
+[2018-01-08 16:55:01] : Result accepted by the pool.
+[2018-01-08 16:55:08] : Result accepted by the pool.
+[2018-01-08 16:55:34] : Result accepted by the pool.
+[2018-01-08 16:55:42] : Result accepted by the pool.
+[2018-01-08 16:55:52] : Result accepted by the pool.
+[2018-01-08 16:55:54] : Result accepted by the pool.
+[2018-01-08 16:56:00] : Result accepted by the pool.
+[2018-01-08 16:56:04] : Result accepted by the pool.
+[2018-01-08 16:56:07] : Result accepted by the pool.
+[2018-01-08 16:56:19] : Difficulty changed. Now: 19163.
+[2018-01-08 16:56:19] : New block detected.
+[2018-01-08 16:56:25] : Result accepted by the pool.
+[2018-01-08 16:56:40] : Result accepted by the pool.
+[2018-01-08 16:56:43] : Result accepted by the pool.
+[2018-01-08 16:56:49] : Result accepted by the pool.
+[2018-01-08 16:57:02] : Result accepted by the pool.
+[2018-01-08 16:57:10] : Result accepted by the pool.
+[2018-01-08 16:57:10] : Result accepted by the pool.
+[2018-01-08 16:57:11] : Fast-connecting to dev pool ...
+[2018-01-08 16:57:11] : Dev pool connected. Logging in...
+[2018-01-08 16:59:13] : Difficulty changed. Now: 10000.
+[2018-01-08 16:59:13] : Switching back to user pool.
+[2018-01-08 16:59:21] : Result accepted by the pool.
+[2018-01-08 16:59:22] : Result accepted by the pool.
+[2018-01-08 16:59:50] : Result accepted by the pool.
+[2018-01-08 16:59:52] : Result accepted by the pool.
+[2018-01-08 17:00:11] : Result accepted by the pool.
+[2018-01-08 17:00:16] : Result accepted by the pool.
+[2018-01-08 17:00:19] : Result accepted by the pool.
+[2018-01-08 17:00:27] : Result accepted by the pool.
+[2018-01-08 17:00:36] : New block detected.
+[2018-01-08 17:00:44] : Result accepted by the pool.
+[2018-01-08 17:00:46] : Result accepted by the pool.
+[2018-01-08 17:00:52] : Result accepted by the pool.
+[2018-01-08 17:00:55] : Result accepted by the pool.
+[2018-01-08 17:01:19] : Result accepted by the pool.
+[2018-01-08 17:01:21] : Result accepted by the pool.
+[2018-01-08 17:01:27] : Result accepted by the pool.
+[2018-01-08 17:01:28] : Result accepted by the pool.
+[2018-01-08 17:01:31] : Result accepted by the pool.
+[2018-01-08 17:01:31] : Result accepted by the pool.
+[2018-01-08 17:01:37] : New block detected.
+[2018-01-08 17:01:46] : Result accepted by the pool.
+[2018-01-08 17:01:49] : Result accepted by the pool.
+[2018-01-08 17:02:02] : Result accepted by the pool.
+[2018-01-08 17:02:21] : Result accepted by the pool.
+[2018-01-08 17:02:24] : Result accepted by the pool.
+[2018-01-08 17:02:29] : Result accepted by the pool.
+[2018-01-08 17:02:42] : Result accepted by the pool.
+[2018-01-08 17:02:46] : Result accepted by the pool.
+[2018-01-08 17:02:52] : Result accepted by the pool.
+[2018-01-08 17:02:52] : Result accepted by the pool.
+[2018-01-08 17:02:54] : Result accepted by the pool.
+[2018-01-08 17:02:55] : Result accepted by the pool.
+[2018-01-08 17:03:01] : Result accepted by the pool.
+[2018-01-08 17:03:03] : Result accepted by the pool.
+[2018-01-08 17:03:13] : Result accepted by the pool.
+[2018-01-08 17:03:13] : Result accepted by the pool.
+[2018-01-08 17:03:19] : Difficulty changed. Now: 15686.
+[2018-01-08 17:03:19] : New block detected.
+[2018-01-08 17:03:28] : Result accepted by the pool.
+[2018-01-08 17:03:29] : Result accepted by the pool.
+[2018-01-08 17:03:29] : New block detected.
+[2018-01-08 17:03:55] : Result accepted by the pool.
+[2018-01-08 17:03:58] : Result accepted by the pool.
+[2018-01-08 17:04:19] : Difficulty changed. Now: 11883.
+[2018-01-08 17:04:19] : New block detected.
+[2018-01-08 17:04:22] : Result accepted by the pool.
+[2018-01-08 17:04:24] : Result accepted by the pool.
+[2018-01-08 17:04:25] : Result accepted by the pool.
+[2018-01-08 17:04:28] : Result accepted by the pool.
+[2018-01-08 17:04:33] : Result accepted by the pool.
+[2018-01-08 17:04:34] : Result accepted by the pool.
+[2018-01-08 17:04:36] : Result accepted by the pool.
+[2018-01-08 17:04:42] : Result accepted by the pool.
+[2018-01-08 17:04:45] : New block detected.
+[2018-01-08 17:04:49] : Difficulty changed. Now: 23766.
+[2018-01-08 17:04:49] : New block detected.
+[2018-01-08 17:04:54] : Result accepted by the pool.
+[2018-01-08 17:04:55] : Result accepted by the pool.
+[2018-01-08 17:05:01] : Result accepted by the pool.
+[2018-01-08 17:05:18] : Result accepted by the pool.
+[2018-01-08 17:05:27] : Result accepted by the pool.
+[2018-01-08 17:05:32] : Result accepted by the pool.
+[2018-01-08 17:05:34] : Result accepted by the pool.
+[2018-01-08 17:05:43] : Result accepted by the pool.
+[2018-01-08 17:06:00] : Result accepted by the pool.
+[2018-01-08 17:06:00] : Result accepted by the pool.
+[2018-01-08 17:06:03] : Result accepted by the pool.
+[2018-01-08 17:06:07] : Result accepted by the pool.
+[2018-01-08 17:06:27] : New block detected.
+[2018-01-08 17:06:32] : Result accepted by the pool.
+[2018-01-08 17:06:40] : Result accepted by the pool.
+[2018-01-08 17:07:00] : Result accepted by the pool.
+[2018-01-08 17:07:05] : Result accepted by the pool.
+[2018-01-08 17:07:14] : Result accepted by the pool.
+[2018-01-08 17:07:30] : Result accepted by the pool.
+[2018-01-08 17:07:41] : Result accepted by the pool.
+[2018-01-08 17:07:57] : Result accepted by the pool.
+[2018-01-08 17:07:59] : Result accepted by the pool.
+[2018-01-08 17:08:01] : Result accepted by the pool.
+[2018-01-08 17:08:02] : Result accepted by the pool.
+[2018-01-08 17:08:05] : Result accepted by the pool.
+[2018-01-08 17:08:09] : Result accepted by the pool.
+[2018-01-08 17:08:17] : Result accepted by the pool.
+[2018-01-08 17:08:34] : Result accepted by the pool.
+[2018-01-08 17:08:40] : Result accepted by the pool.
+[2018-01-08 17:08:40] : Result accepted by the pool.
+[2018-01-08 17:09:04] : Result accepted by the pool.
+[2018-01-08 17:09:09] : Result accepted by the pool.
+[2018-01-08 17:09:14] : Result accepted by the pool.
+[2018-01-08 17:09:42] : Result accepted by the pool.
+[2018-01-08 17:10:06] : Result accepted by the pool.
+[2018-01-08 17:10:17] : Result accepted by the pool.
+[2018-01-08 17:10:48] : Result accepted by the pool.
+[2018-01-08 17:10:57] : Result accepted by the pool.
+[2018-01-08 17:11:04] : Result accepted by the pool.
+[2018-01-08 17:11:20] : Result accepted by the pool.
+[2018-01-08 17:11:29] : Result accepted by the pool.
+[2018-01-08 17:11:32] : Result accepted by the pool.
+[2018-01-08 17:11:36] : Result accepted by the pool.
+[2018-01-08 17:11:46] : Result accepted by the pool.
+[2018-01-08 17:12:12] : Result accepted by the pool.
+[2018-01-08 17:12:18] : Result accepted by the pool.
+[2018-01-08 17:12:18] : Result accepted by the pool.
+[2018-01-08 17:12:33] : Result accepted by the pool.
+[2018-01-08 17:12:34] : Result accepted by the pool.
+[2018-01-08 17:12:44] : Result accepted by the pool.
+[2018-01-08 17:12:52] : Result accepted by the pool.
+[2018-01-08 17:13:18] : New block detected.
+[2018-01-08 17:13:45] : Result accepted by the pool.
+[2018-01-08 17:13:47] : New block detected.
+[2018-01-08 17:13:54] : Result accepted by the pool.
+[2018-01-08 17:14:25] : Result accepted by the pool.
+[2018-01-08 17:14:50] : Difficulty changed. Now: 17340.
+[2018-01-08 17:14:50] : New block detected.
+[2018-01-08 17:14:56] : New block detected.
+[2018-01-08 17:15:01] : Result accepted by the pool.
+[2018-01-08 17:15:05] : Result accepted by the pool.
+[2018-01-08 17:15:05] : Result accepted by the pool.
+[2018-01-08 17:15:06] : Result accepted by the pool.
+[2018-01-08 17:15:10] : Result accepted by the pool.
+[2018-01-08 17:15:11] : Result accepted by the pool.
+[2018-01-08 17:15:20] : Difficulty changed. Now: 34680.
+[2018-01-08 17:15:20] : New block detected.
+[2018-01-08 17:15:23] : Result accepted by the pool.
+[2018-01-08 17:15:34] : Result accepted by the pool.
+[2018-01-08 17:15:49] : Result accepted by the pool.
+[2018-01-08 17:15:50] : Result accepted by the pool.
+[2018-01-08 17:15:54] : Result accepted by the pool.
+[2018-01-08 17:16:10] : Result accepted by the pool.
+[2018-01-08 17:16:28] : Result accepted by the pool.
+[2018-01-08 17:16:34] : Result accepted by the pool.
+[2018-01-08 17:16:36] : New block detected.
+[2018-01-08 17:16:51] : Result accepted by the pool.
+[2018-01-08 17:17:01] : Result accepted by the pool.
+[2018-01-08 17:17:19] : Result accepted by the pool.
+[2018-01-08 17:17:19] : New block detected.
+[2018-01-08 17:17:46] : Result accepted by the pool.
+[2018-01-08 17:18:20] : Difficulty changed. Now: 23854.
+[2018-01-08 17:18:20] : New block detected.
+[2018-01-08 17:18:35] : Result accepted by the pool.
+[2018-01-08 17:18:43] : Result accepted by the pool.
+[2018-01-08 17:18:50] : Result accepted by the pool.
+[2018-01-08 17:19:20] : Difficulty changed. Now: 15903.
+[2018-01-08 17:19:20] : New block detected.
+[2018-01-08 17:19:31] : Result accepted by the pool.
+[2018-01-08 17:19:44] : Result accepted by the pool.
+[2018-01-08 17:19:44] : Result accepted by the pool.
+[2018-01-08 17:19:49] : Result accepted by the pool.
+[2018-01-08 17:19:57] : Result accepted by the pool.
+[2018-01-08 17:20:11] : Result accepted by the pool.
+[2018-01-08 17:20:15] : Result accepted by the pool.
+[2018-01-08 17:20:15] : Result accepted by the pool.
+[2018-01-08 17:20:16] : Result accepted by the pool.
+[2018-01-08 17:20:16] : Result accepted by the pool.
+[2018-01-08 17:20:20] : Difficulty changed. Now: 27900.
+[2018-01-08 17:20:20] : New block detected.
+[2018-01-08 17:20:21] : Result accepted by the pool.
+[2018-01-08 17:20:23] : Result accepted by the pool.
+[2018-01-08 17:20:29] : Result accepted by the pool.
+[2018-01-08 17:20:36] : Result accepted by the pool.
+[2018-01-08 17:20:50] : Difficulty changed. Now: 41029.
+[2018-01-08 17:20:50] : New block detected.
+[2018-01-08 17:21:20] : Difficulty changed. Now: 13676.
+[2018-01-08 17:21:20] : New block detected.
+[2018-01-08 17:21:29] : New block detected.
+[2018-01-08 17:21:39] : Result accepted by the pool.
+[2018-01-08 17:21:50] : Difficulty changed. Now: 10000.
+[2018-01-08 17:21:50] : New block detected.
+[2018-01-08 17:21:59] : Result accepted by the pool.
+[2018-01-08 17:22:06] : Result accepted by the pool.
+[2018-01-08 17:22:08] : Result accepted by the pool.
+[2018-01-08 17:22:19] : Result accepted by the pool.
+[2018-01-08 17:22:24] : Result accepted by the pool.
+[2018-01-08 17:22:26] : Result accepted by the pool.
+[2018-01-08 17:22:28] : Result accepted by the pool.
+[2018-01-08 17:22:32] : Result accepted by the pool.
+[2018-01-08 17:22:38] : Result accepted by the pool.
+[2018-01-08 17:22:50] : Difficulty changed. Now: 15254.
+[2018-01-08 17:22:50] : New block detected.
+[2018-01-08 17:22:50] : Result accepted by the pool.
+[2018-01-08 17:22:52] : Result accepted by the pool.
+[2018-01-08 17:22:52] : Result accepted by the pool.
+[2018-01-08 17:23:04] : Result accepted by the pool.
+[2018-01-08 17:23:10] : Result accepted by the pool.
+[2018-01-08 17:23:12] : Result accepted by the pool.
+[2018-01-08 17:23:14] : New block detected.
+[2018-01-08 17:23:15] : Result accepted by the pool.
+[2018-01-08 17:23:20] : Difficulty changed. Now: 28859.
+[2018-01-08 17:23:20] : New block detected.
+[2018-01-08 17:23:21] : Result accepted by the pool.
+[2018-01-08 17:23:32] : Result accepted by the pool.
+Message from donate.xmr-stak.net:3333:
+Thanks for donating!
+Please checkout our community fund-raiser!
+GUI Miner - http://goo.gl/vmuiLE
+
+PS This is just a thank you. 
+It doesn't mean you are mining to our pool right now.
+
+-----------------------------------------------------
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |   28.1 |   27.1 |   26.3 |  1 |   27.4 |   27.2 |   27.0 |
+|  2 |   23.8 |   23.5 |   23.4 |  3 |   28.2 |   27.9 |   27.7 |
+|  4 |   28.6 |   28.3 |   28.1 |  5 |   34.3 |   34.0 |   33.9 |
+|  6 |   32.4 |   32.2 |   32.1 |  7 |   31.1 |   30.9 |   30.8 |
+|  8 |   30.2 |   30.0 |   29.9 |  9 |   39.2 |   39.0 |   38.9 |
+| 10 |   35.3 |   35.0 |   34.9 | 11 |   32.1 |   31.9 |   31.7 |
+| 12 |   35.0 |   34.8 |   34.6 | 13 |   33.2 |   33.0 |   32.8 |
+| 14 |   28.6 |   28.4 |   28.2 | 15 |   31.4 |   31.0 |   31.0 |
+| 16 |   31.0 |   30.7 |   30.8 | 17 |   30.7 |   30.4 |   30.2 |
+| 18 |   36.0 |   35.7 |   35.6 | 19 |   33.6 |   33.4 |   33.2 |
+| 20 |   27.5 |   27.3 |   27.1 | 21 |   30.5 |   30.1 |   30.0 |
+| 22 |   30.6 |   30.3 |   30.1 | 23 |   33.0 |   32.8 |   32.7 |
+| 24 |   29.1 |   28.9 |   28.8 | 25 |   31.1 |   30.9 |   30.6 |
+| 26 |   34.6 |   34.4 |   34.3 | 27 |   35.6 |   35.4 |   35.2 |
+| 28 |   25.6 |   25.4 |   25.5 | 29 |   33.8 |   33.5 |   33.7 |
+| 30 |   25.3 |   25.2 |   25.3 | 31 |   27.0 |   26.8 |   26.9 |
+| 32 |   34.7 |   34.4 |   34.6 | 33 |   28.0 |   27.8 |   27.9 |
+| 34 |   37.9 |   37.7 |   37.8 | 35 |   29.1 |   28.6 |   28.9 |
+| 36 |   39.1 |   38.8 |   38.9 | 37 |   31.4 |   31.2 |   31.3 |
+| 38 |   31.8 |   31.5 |   31.6 | 39 |   38.4 |   38.1 |   38.2 |
+| 40 |   28.8 |   29.2 |   29.2 | 41 |   38.5 |   38.3 |   38.4 |
+| 42 |   27.1 |   26.8 |   26.9 | 43 |   34.4 |   34.1 |   34.2 |
+| 44 |   28.2 |   27.9 |   28.1 | 45 |   39.3 |   39.1 |   39.2 |
+| 46 |   39.7 |   39.4 |   39.5 | 47 |   31.2 |   30.9 |   31.1 |
+| 48 |   35.4 |   35.1 |   35.3 | 49 |   28.1 |   27.8 |   27.7 |
+| 50 |   24.1 |   23.8 |   24.1 | 51 |   32.4 |   32.1 |   32.3 |
+| 52 |   33.6 |   33.3 |   33.4 | 53 |   29.3 |   29.1 |   29.2 |
+| 54 |   25.4 |   25.1 |   25.2 | 55 |   28.9 |   28.7 |   28.8 |
+-----------------------------------------------------
+HASHRATE REPORT - NVIDIA
+| ID |    10s |    60s |    15m |
+|  0 |  142.6 |  159.0 |  174.6 |
+---------------------------
+Totals:   1911.1 1913.7 1928.1 H/s
+Highest:  1945.1 H/s
+[2018-01-08 17:23:48] : Result accepted by the pool.
+[2018-01-08 17:23:54] : Result accepted by the pool.
+[2018-01-08 17:24:12] : Starting NVIDIA GPU thread 0, no affinity.
+[2018-01-08 17:24:13] : WARNING: No AMD OpenCL platform found. Possible driver issues or wrong vendor driver.
+[2018-01-08 17:24:13] : WARNING: backend AMD disabled.
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 0.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 2.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 4.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 6.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 8.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 10.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 12.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 14.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 16.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 18.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 20.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 22.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 24.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 26.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 28.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 30.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 32.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 34.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 36.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 38.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 40.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 42.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 1.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 3.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 5.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 7.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 9.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 11.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 64.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 66.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 68.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 70.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 72.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 74.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 76.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 78.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 80.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 82.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 84.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 86.
+[2018-01-08 17:24:13] : hwloc: memory pinned
+[2018-01-08 17:24:13] : Starting 1x thread, affinity: 88.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 90.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 92.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 94.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 96.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 98.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 100.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 102.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 104.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 106.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 65.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 67.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 69.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 71.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 73.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Starting 1x thread, affinity: 75.
+[2018-01-08 17:24:14] : hwloc: memory pinned
+[2018-01-08 17:24:14] : Fast-connecting to  pool ...
+[2018-01-08 17:24:14] : SOCKET ERROR - [] CONNECT error: Pool port number not specified, please use format <hostname>:<port>.
+[2018-01-08 17:24:22] : Starting NVIDIA GPU thread 0, no affinity.
+[2018-01-08 17:24:22] : Starting 1x thread, affinity: 0.
+[2018-01-08 17:24:22] : hwloc: memory pinned
+[2018-01-08 17:24:22] : Starting 1x thread, affinity: 2.
+[2018-01-08 17:24:22] : hwloc: memory pinned
+[2018-01-08 17:24:22] : Starting 1x thread, affinity: 4.
+[2018-01-08 17:24:22] : hwloc: memory pinned
+[2018-01-08 17:24:22] : Starting 1x thread, affinity: 6.
+[2018-01-08 17:24:22] : hwloc: memory pinned
+[2018-01-08 17:24:22] : Starting 1x thread, affinity: 8.
+[2018-01-08 17:24:22] : hwloc: memory pinned
+[2018-01-08 17:24:22] : Starting 1x thread, affinity: 10.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 12.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 14.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 16.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 18.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 20.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 22.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 24.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 26.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 28.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 30.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 32.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 34.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 36.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 38.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 40.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 42.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 1.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 3.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 5.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 7.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 9.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 11.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 64.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 66.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 68.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 70.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 72.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 74.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 76.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 78.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 80.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 82.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 84.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 86.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 88.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 90.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 92.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 94.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 96.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 98.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 100.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 102.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 104.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 106.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 65.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 67.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 69.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 71.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 73.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Starting 1x thread, affinity: 75.
+[2018-01-08 17:24:23] : hwloc: memory pinned
+[2018-01-08 17:24:23] : Fast-connecting to  pool ...
+[2018-01-08 17:24:23] : SOCKET ERROR - [] CONNECT error: Pool port number not specified, please use format <hostname>:<port>.
+[2018-01-08 17:24:23] : Fast-connecting to xmrpool.eu:5555 pool ...
+[2018-01-08 17:24:23] : Pool xmrpool.eu:5555 connected. Logging in...
+[2018-01-08 17:24:24] : Difficulty changed. Now: 25000.
+[2018-01-08 17:24:24] : Pool logged in.
+[2018-01-08 17:24:51] : Result accepted by the pool.
+[2018-01-08 17:24:53] : Result accepted by the pool.
+[2018-01-08 17:25:02] : Difficulty changed. Now: 16667.
+[2018-01-08 17:25:02] : New block detected.
+[2018-01-08 17:25:04] : Result accepted by the pool.
+[2018-01-08 17:25:15] : Result accepted by the pool.
+[2018-01-08 17:25:27] : Result accepted by the pool.
+[2018-01-08 17:25:28] : Result accepted by the pool.
+[2018-01-08 17:25:45] : Result accepted by the pool.
+[2018-01-08 17:25:45] : Result accepted by the pool.
+[2018-01-08 17:25:50] : Result accepted by the pool.
+[2018-01-08 17:26:02] : Result accepted by the pool.
+[2018-01-08 17:26:09] : Result accepted by the pool.
+[2018-01-08 17:26:13] : Result accepted by the pool.
+[2018-01-08 17:26:38] : Result accepted by the pool.
+[2018-01-08 17:26:43] : New block detected.
+[2018-01-08 17:26:59] : Result accepted by the pool.
+[2018-01-08 17:27:01] : Result accepted by the pool.
+[2018-01-08 17:27:11] : Result accepted by the pool.
+[2018-01-08 17:27:12] : Result accepted by the pool.
+[2018-01-08 17:27:21] : Result accepted by the pool.
+[2018-01-08 17:27:28] : New block detected.
+[2018-01-08 17:27:52] : Result accepted by the pool.
+[2018-01-08 17:27:54] : Result accepted by the pool.
+[2018-01-08 17:27:57] : Result accepted by the pool.
+[2018-01-08 17:28:06] : Result accepted by the pool.
+[2018-01-08 17:28:18] : Result accepted by the pool.
+[2018-01-08 17:28:21] : Result accepted by the pool.
+[2018-01-08 17:28:28] : Result accepted by the pool.
+[2018-01-08 17:28:36] : Result accepted by the pool.
+[2018-01-08 17:28:48] : Result accepted by the pool.
+[2018-01-08 17:29:01] : Result accepted by the pool.
+[2018-01-08 17:29:02] : Result accepted by the pool.
+[2018-01-08 17:29:17] : Result accepted by the pool.
+[2018-01-08 17:29:23] : Result accepted by the pool.
+[2018-01-08 17:29:28] : Result accepted by the pool.
+[2018-01-08 17:29:29] : New block detected.
+[2018-01-08 17:30:14] : Result accepted by the pool.
+[2018-01-08 17:30:15] : Result accepted by the pool.
+[2018-01-08 17:30:16] : Result accepted by the pool.
+[2018-01-08 17:31:32] : Result accepted by the pool.
+[2018-01-08 17:31:33] : Difficulty changed. Now: 12233.
+[2018-01-08 17:31:33] : New block detected.
+[2018-01-08 17:31:38] : Result accepted by the pool.
+[2018-01-08 17:31:43] : Result accepted by the pool.
+[2018-01-08 17:31:45] : Result accepted by the pool.
+[2018-01-08 17:31:47] : Result accepted by the pool.
+[2018-01-08 17:31:51] : Result accepted by the pool.
+[2018-01-08 17:32:03] : Difficulty changed. Now: 24466.
+[2018-01-08 17:32:03] : New block detected.
+[2018-01-08 17:32:33] : Difficulty changed. Now: 10000.
+[2018-01-08 17:32:33] : New block detected.
+[2018-01-08 17:32:34] : Result accepted by the pool.
+[2018-01-08 17:32:35] : Result accepted by the pool.
+[2018-01-08 17:32:36] : Result accepted by the pool.
+[2018-01-08 17:32:39] : Result accepted by the pool.
+[2018-01-08 17:32:42] : Result accepted by the pool.
+[2018-01-08 17:32:45] : Result accepted by the pool.
+[2018-01-08 17:32:47] : Result accepted by the pool.
+[2018-01-08 17:32:50] : Result accepted by the pool.
+[2018-01-08 17:32:52] : Result accepted by the pool.
+[2018-01-08 17:32:58] : Result accepted by the pool.
+[2018-01-08 17:33:00] : Result accepted by the pool.
+[2018-01-08 17:33:03] : Difficulty changed. Now: 20000.
+[2018-01-08 17:33:03] : New block detected.
+[2018-01-08 17:33:10] : Result accepted by the pool.
+[2018-01-08 17:33:13] : Result accepted by the pool.
+[2018-01-08 17:33:46] : Result accepted by the pool.
+[2018-01-08 17:33:47] : Result accepted by the pool.
+[2018-01-08 17:34:19] : Result accepted by the pool.
+[2018-01-08 17:34:32] : Result accepted by the pool.
+[2018-01-08 17:34:33] : Difficulty changed. Now: 12903.
+[2018-01-08 17:34:33] : New block detected.
+[2018-01-08 17:34:47] : Result accepted by the pool.
+[2018-01-08 17:34:48] : Result accepted by the pool.
+[2018-01-08 17:34:53] : Result accepted by the pool.
+[2018-01-08 17:35:03] : Difficulty changed. Now: 19355.
+[2018-01-08 17:35:03] : New block detected.
+[2018-01-08 17:35:07] : Result accepted by the pool.
+[2018-01-08 17:35:13] : New block detected.
+[2018-01-08 17:35:33] : Difficulty changed. Now: 10000.
+[2018-01-08 17:35:33] : New block detected.
+[2018-01-08 17:35:33] : Result accepted by the pool.
+[2018-01-08 17:35:36] : Result accepted by the pool.
+[2018-01-08 17:35:42] : Result accepted by the pool.
+[2018-01-08 17:35:56] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |   22.0 |   21.5 |   (na) |  1 |   33.9 |   33.4 |   (na) |
+|  2 |   20.3 |   19.7 |   (na) |  3 |   22.9 |   22.4 |   (na) |
+|  4 |   21.9 |   21.3 |   (na) |  5 |   37.2 |   36.8 |   (na) |
+|  6 |   25.1 |   24.4 |   (na) |  7 |   23.2 |   22.6 |   (na) |
+|  8 |   40.3 |   39.8 |   (na) |  9 |   24.8 |   24.3 |   (na) |
+| 10 |   26.2 |   25.5 |   (na) | 11 |   40.4 |   40.0 |   (na) |
+| 12 |   25.2 |   24.3 |   (na) | 13 |   27.7 |   27.0 |   (na) |
+| 14 |   22.7 |   22.1 |   (na) | 15 |   35.5 |   34.7 |   (na) |
+| 16 |   37.1 |   36.7 |   (na) | 17 |   25.9 |   25.1 |   (na) |
+| 18 |   24.7 |   24.0 |   (na) | 19 |   40.3 |   39.7 |   (na) |
+| 20 |   22.3 |   21.7 |   (na) | 21 |   24.3 |   23.7 |   (na) |
+| 22 |   20.9 |   20.4 |   (na) | 23 |   35.4 |   35.0 |   (na) |
+| 24 |   35.1 |   34.6 |   (na) | 25 |   21.6 |   21.0 |   (na) |
+| 26 |   22.9 |   22.4 |   (na) | 27 |   21.0 |   20.5 |   (na) |
+| 28 |   30.8 |   30.2 |   (na) | 29 |   30.7 |   29.9 |   (na) |
+| 30 |   27.8 |   27.2 |   (na) | 31 |   30.0 |   29.4 |   (na) |
+| 32 |   34.5 |   34.0 |   (na) | 33 |   29.4 |   29.2 |   (na) |
+| 34 |   30.9 |   30.4 |   (na) | 35 |   35.8 |   35.3 |   (na) |
+| 36 |   33.2 |   32.7 |   (na) | 37 |   38.3 |   37.8 |   (na) |
+| 38 |   33.5 |   33.0 |   (na) | 39 |   37.2 |   36.6 |   (na) |
+| 40 |   33.9 |   33.3 |   (na) | 41 |   32.0 |   31.5 |   (na) |
+| 42 |   33.5 |   33.0 |   (na) | 43 |   28.2 |   27.6 |   (na) |
+| 44 |   33.0 |   32.2 |   (na) | 45 |   31.0 |   30.5 |   (na) |
+| 46 |   36.8 |   36.2 |   (na) | 47 |   32.4 |   32.1 |   (na) |
+| 48 |   34.3 |   33.4 |   (na) | 49 |   34.7 |   34.1 |   (na) |
+| 50 |   26.0 |   25.7 |   (na) | 51 |   31.2 |   31.0 |   (na) |
+| 52 |   27.8 |   27.6 |   (na) | 53 |   27.5 |   26.8 |   (na) |
+| 54 |   31.8 |   31.3 |   (na) | 55 |   31.6 |   30.7 |   (na) |
+-----------------------------------------------------
+HASHRATE REPORT - NVIDIA
+| ID |    10s |    60s |    15m |
+|  0 |  144.9 |  148.4 |   (na) |
+---------------------------
+Totals:   1823.3 1795.6   (na) H/s
+Highest:  1858.0 H/s
+[2018-01-08 17:35:58] : Result accepted by the pool.
+[2018-01-08 17:36:03] : Difficulty changed. Now: 19231.
+[2018-01-08 17:36:03] : New block detected.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |   22.1 |   21.7 |   (na) |  1 |   33.9 |   33.7 |   (na) |
+|  2 |   20.3 |   20.0 |   (na) |  3 |   23.0 |   22.6 |   (na) |
+|  4 |   22.0 |   21.6 |   (na) |  5 |   37.3 |   37.0 |   (na) |
+|  6 |   25.2 |   24.7 |   (na) |  7 |   23.3 |   22.9 |   (na) |
+|  8 |   40.4 |   40.1 |   (na) |  9 |   24.8 |   24.5 |   (na) |
+| 10 |   26.4 |   25.9 |   (na) | 11 |   40.5 |   40.2 |   (na) |
+| 12 |   25.3 |   24.7 |   (na) | 13 |   27.8 |   27.4 |   (na) |
+| 14 |   22.7 |   22.4 |   (na) | 15 |   35.6 |   35.1 |   (na) |
+| 16 |   37.1 |   36.9 |   (na) | 17 |   26.0 |   25.5 |   (na) |
+| 18 |   24.8 |   24.4 |   (na) | 19 |   40.4 |   40.0 |   (na) |
+| 20 |   22.4 |   22.0 |   (na) | 21 |   24.4 |   24.0 |   (na) |
+| 22 |   20.9 |   20.6 |   (na) | 23 |   35.4 |   35.2 |   (na) |
+| 24 |   35.1 |   34.8 |   (na) | 25 |   21.7 |   21.3 |   (na) |
+| 26 |   22.9 |   22.6 |   (na) | 27 |   21.1 |   20.8 |   (na) |
+| 28 |   31.0 |   30.5 |   (na) | 29 |   30.8 |   30.3 |   (na) |
+| 30 |   27.8 |   27.4 |   (na) | 31 |   30.2 |   29.7 |   (na) |
+| 32 |   34.7 |   34.2 |   (na) | 33 |   29.5 |   29.2 |   (na) |
+| 34 |   30.9 |   30.6 |   (na) | 35 |   35.9 |   35.5 |   (na) |
+| 36 |   33.2 |   32.9 |   (na) | 37 |   38.4 |   38.0 |   (na) |
+| 38 |   33.6 |   33.2 |   (na) | 39 |   37.2 |   36.9 |   (na) |
+| 40 |   34.0 |   33.6 |   (na) | 41 |   32.2 |   31.8 |   (na) |
+| 42 |   33.6 |   33.2 |   (na) | 43 |   28.8 |   28.0 |   (na) |
+| 44 |   33.1 |   32.6 |   (na) | 45 |   31.0 |   30.7 |   (na) |
+| 46 |   37.0 |   36.5 |   (na) | 47 |   32.5 |   32.2 |   (na) |
+| 48 |   34.4 |   33.8 |   (na) | 49 |   34.8 |   34.3 |   (na) |
+| 50 |   26.1 |   25.8 |   (na) | 51 |   31.3 |   31.1 |   (na) |
+| 52 |   27.8 |   27.6 |   (na) | 53 |   27.5 |   27.1 |   (na) |
+| 54 |   32.0 |   31.5 |   (na) | 55 |   31.7 |   31.1 |   (na) |
+-----------------------------------------------------
+HASHRATE REPORT - NVIDIA
+| ID |    10s |    60s |    15m |
+|  0 |   (na) |  149.0 |   (na) |
+---------------------------
+Totals:     (na) 1811.3   (na) H/s
+Highest:  1858.0 H/s
+[2018-01-08 17:36:09] : Result accepted by the pool.
+[2018-01-08 17:36:27] : Result accepted by the pool.
+[2018-01-08 17:36:29] : Result accepted by the pool.
+[2018-01-08 17:37:00] : Result accepted by the pool.
+[2018-01-08 17:37:02] : Result accepted by the pool.
+[2018-01-08 17:37:33] : Result accepted by the pool.
+[2018-01-08 17:37:33] : Difficulty changed. Now: 12275.
+[2018-01-08 17:37:33] : New block detected.
+[2018-01-08 17:37:38] : Result accepted by the pool.
+[2018-01-08 17:37:50] : Result accepted by the pool.
+[2018-01-08 17:37:53] : Result accepted by the pool.
+[2018-01-08 17:37:59] : Result accepted by the pool.
+[2018-01-08 17:37:59] : Result accepted by the pool.
+[2018-01-08 17:38:01] : Result accepted by the pool.
+[2018-01-08 17:38:03] : Difficulty changed. Now: 24550.
+[2018-01-08 17:38:03] : New block detected.
+[2018-01-08 17:38:19] : Result accepted by the pool.
+[2018-01-08 17:38:24] : Result accepted by the pool.
+[2018-01-08 17:38:28] : Result accepted by the pool.
+[2018-01-08 17:39:03] : Difficulty changed. Now: 16098.
+[2018-01-08 17:39:03] : New block detected.
+[2018-01-08 17:39:27] : Result accepted by the pool.
+[2018-01-08 17:39:33] : Difficulty changed. Now: 10000.
+[2018-01-08 17:39:33] : New block detected.
+[2018-01-08 17:39:33] : Result accepted by the pool.
+[2018-01-08 17:39:37] : Result accepted by the pool.
+[2018-01-08 17:39:44] : Result accepted by the pool.
+[2018-01-08 17:39:47] : Result accepted by the pool.
+[2018-01-08 17:39:48] : Result accepted by the pool.
+[2018-01-08 17:39:52] : Result accepted by the pool.
+[2018-01-08 17:39:53] : Result accepted by the pool.
+[2018-01-08 17:39:53] : Result accepted by the pool.
+[2018-01-08 17:40:03] : Difficulty changed. Now: 20000.
+[2018-01-08 17:40:03] : New block detected.
+[2018-01-08 17:40:12] : Result accepted by the pool.
+[2018-01-08 17:40:12] : Result accepted by the pool.
+[2018-01-08 17:40:22] : Result accepted by the pool.
+[2018-01-08 17:40:33] : Result accepted by the pool.
+[2018-01-08 17:40:39] : Result accepted by the pool.
+[2018-01-08 17:40:43] : Result accepted by the pool.
+[2018-01-08 17:40:44] : Result accepted by the pool.
+[2018-01-08 17:41:07] : Result accepted by the pool.
+[2018-01-08 17:41:20] : Result accepted by the pool.
+[2018-01-08 17:41:43] : Result accepted by the pool.
+[2018-01-08 17:41:46] : Result accepted by the pool.
+[2018-01-08 17:41:52] : Result accepted by the pool.
+[2018-01-08 17:41:59] : Result accepted by the pool.
+[2018-01-08 17:42:16] : Result accepted by the pool.
+[2018-01-08 17:43:18] : Result accepted by the pool.
+[2018-01-08 17:43:20] : Result accepted by the pool.
+[2018-01-08 17:43:32] : Result accepted by the pool.
+[2018-01-08 17:43:45] : Result accepted by the pool.
+[2018-01-08 17:43:49] : New block detected.
+[2018-01-08 17:43:55] : Result accepted by the pool.
+[2018-01-08 17:43:57] : Result accepted by the pool.
+[2018-01-08 17:44:08] : Result accepted by the pool.
+[2018-01-08 17:44:14] : Result accepted by the pool.
+[2018-01-08 17:44:33] : Difficulty changed. Now: 14719.
+[2018-01-08 17:44:33] : New block detected.
+[2018-01-08 17:44:43] : Result accepted by the pool.
+[2018-01-08 17:44:47] : Result accepted by the pool.
+[2018-01-08 17:44:48] : Result accepted by the pool.
+[2018-01-08 17:44:48] : Result accepted by the pool.
+[2018-01-08 17:44:53] : New block detected.
+[2018-01-08 17:45:00] : Result accepted by the pool.
+[2018-01-08 17:45:03] : Difficulty changed. Now: 27257.
+[2018-01-08 17:45:03] : New block detected.
+[2018-01-08 17:45:08] : New block detected.
+[2018-01-08 17:45:19] : Result accepted by the pool.
+[2018-01-08 17:45:33] : Difficulty changed. Now: 16519.
+[2018-01-08 17:45:33] : New block detected.
+[2018-01-08 17:45:47] : New block detected.
+[2018-01-08 17:45:49] : Result accepted by the pool.
+[2018-01-08 17:45:50] : Result accepted by the pool.
+[2018-01-08 17:46:01] : Result accepted by the pool.
+[2018-01-08 17:46:05] : Result accepted by the pool.
+[2018-01-08 17:46:06] : Result accepted by the pool.
+[2018-01-08 17:46:10] : Result accepted by the pool.
+[2018-01-08 17:46:15] : Result accepted by the pool.
+[2018-01-08 17:46:42] : Result accepted by the pool.
+[2018-01-08 17:46:44] : Result accepted by the pool.
+[2018-01-08 17:46:55] : Result accepted by the pool.
+[2018-01-08 17:47:07] : Result accepted by the pool.
+[2018-01-08 17:47:13] : Result accepted by the pool.
+[2018-01-08 17:47:17] : Result accepted by the pool.
+[2018-01-08 17:47:30] : Result accepted by the pool.
+[2018-01-08 17:47:35] : Result accepted by the pool.
+[2018-01-08 17:47:36] : New block detected.
+[2018-01-08 17:47:55] : Result accepted by the pool.
+[2018-01-08 17:48:02] : New block detected.
+[2018-01-08 17:48:25] : Result accepted by the pool.
+[2018-01-08 17:48:30] : Result accepted by the pool.
+[2018-01-08 17:48:47] : Result accepted by the pool.
+[2018-01-08 17:49:03] : Result accepted by the pool.
+[2018-01-08 17:49:06] : New block detected.
+[2018-01-08 17:49:09] : Result accepted by the pool.
+[2018-01-08 17:49:09] : Result accepted by the pool.
+[2018-01-08 17:49:19] : Result accepted by the pool.
+[2018-01-08 17:49:22] : Result accepted by the pool.
+[2018-01-08 17:49:53] : Result accepted by the pool.
+[2018-01-08 17:50:04] : Result accepted by the pool.
+[2018-01-08 17:50:12] : Result accepted by the pool.
+[2018-01-08 17:50:18] : Result accepted by the pool.
+[2018-01-08 17:50:19] : Result accepted by the pool.
+[2018-01-08 17:50:28] : Result accepted by the pool.
+[2018-01-08 17:51:05] : Result accepted by the pool.
+[2018-01-08 17:51:33] : Difficulty changed. Now: 11799.
+[2018-01-08 17:51:33] : New block detected.
+[2018-01-08 17:51:35] : Result accepted by the pool.
+[2018-01-08 17:51:40] : Result accepted by the pool.
+[2018-01-08 17:51:44] : Result accepted by the pool.
+[2018-01-08 17:51:44] : Result accepted by the pool.
+[2018-01-08 17:52:03] : Difficulty changed. Now: 19665.
+[2018-01-08 17:52:03] : New block detected.
+[2018-01-08 17:52:33] : Difficulty changed. Now: 10000.
+[2018-01-08 17:52:33] : New block detected.
+[2018-01-08 17:52:39] : Result accepted by the pool.
+[2018-01-08 17:52:41] : Result accepted by the pool.
+[2018-01-08 17:52:43] : Result accepted by the pool.
+[2018-01-08 17:52:53] : Result accepted by the pool.
+[2018-01-08 17:53:01] : Result accepted by the pool.
+[2018-01-08 17:53:02] : Result accepted by the pool.
+[2018-01-08 17:53:02] : Result accepted by the pool.
+[2018-01-08 17:53:03] : Difficulty changed. Now: 20000.
+[2018-01-08 17:53:03] : New block detected.
+[2018-01-08 17:53:14] : Result accepted by the pool.
+[2018-01-08 17:53:17] : Result accepted by the pool.
+[2018-01-08 17:53:18] : Result accepted by the pool.
+[2018-01-08 17:53:50] : Result accepted by the pool.
+[2018-01-08 17:53:53] : Result accepted by the pool.
+[2018-01-08 17:53:54] : Result accepted by the pool.
+[2018-01-08 17:53:59] : Result accepted by the pool.
+[2018-01-08 17:54:07] : Result accepted by the pool.
+[2018-01-08 17:54:21] : Result accepted by the pool.
+[2018-01-08 17:54:31] : New block detected.
+[2018-01-08 17:54:31] : Result accepted by the pool.
+[2018-01-08 17:55:02] : Result accepted by the pool.
+[2018-01-08 17:55:07] : Result accepted by the pool.
