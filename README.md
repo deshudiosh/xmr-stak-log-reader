@@ -1,7 +1,7 @@
 ## What is it?
 - Simple utility to interpret data from [xmr-stak](https://github.com/fireice-uk/xmr-stak) miner log files
 - Designed to group logged data into "sessions"
-- One "session" is single xmr-stak.exe run 
+- One "session" is single xmr-stak.exe run (for now, this may change)
 
 ## Status?
 - Alpha AF
