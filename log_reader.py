@@ -1,4 +1,5 @@
 from datetime import datetime
+from tkinter import Tk, filedialog
 
 
 def interpret_groups(groups):
@@ -44,13 +45,17 @@ def group_lines(lines):
 
 
 def main():
-    log = "log.txt"
+    Tk().withdraw() # hide TK window
+    log = filedialog.askopenfile().name
+
     with open(log) as file:
         lines = [l.strip() for l in file]
 
     groups = group_lines(lines)
 
     interpret_groups(groups)
+
+    input() # keep console from closing
 
 
 if __name__ == "__main__":
