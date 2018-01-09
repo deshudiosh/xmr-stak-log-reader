@@ -31,7 +31,7 @@ def interpret_groups(groups):
         num_reports = 0
         for line in group:
             if 'Totals:' in line:
-                avghr += float(line.split(' ')[3])
+                # avghr += float(line.split(' ')[3])
                 num_reports += 1
 
         if num_reports > 0: avghr /= num_reports
