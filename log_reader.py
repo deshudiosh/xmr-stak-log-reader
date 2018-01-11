@@ -1,25 +1,22 @@
-from collections import namedtuple
 from datetime import datetime
 from tkinter import Tk, filedialog
 
 
-class Avarage:
+class Average:
     value = count = 0.0
 
-    """ Search for floats in string and add to value"""
-    def add_from_string(self, val_str:str, separator:str=" ", first_only=True):
-
-        substrings = val_str.split(separator)
-        for substr in substrings:
-            o = 1 #TODO continue here
-        # self.value += float(add_value)
-        self.count += 1
+    """ Search for first number in a string and add to averaged value"""
+    def add_from_string(self, val_str:str, separator:str=" "):
+        for substr in val_str.split(separator):
+            try:
+                self.value += float(substr)
+                self.count += 1
+                break
+            except:
+                pass
 
     def get(self, decimals=2) -> float:
-        if self.count < 0: self.count += 1
-        return round(self.value/self.count, decimals)
-
-
+        return round(self.value/max(self.count, 1), decimals)
 
 
 def interpret_groups(groups):
@@ -47,16 +44,15 @@ def interpret_groups(groups):
                 break
 
         # find avg hash rates
-        avg = Avarage()
+        avg = Average()
         for line in group:
             if 'Totals:' in line:
-                print(line.split(' '))
+                avg.add_from_string(line)
 
-        # avghr = round(avghr, 2)
-        #
-        # duration = session_end - session_start if (session_start and session_end) else "info not found"
-        #
-        # print('--> Started at:', session_start, '  Session Duration: ', duration, '  Avg H/s:', avghr)
+
+        duration = session_end - session_start if (session_start and session_end) else "info not found"
+
+        print('--> Started at:', session_start, '  Session Duration: ', duration, '  Avg H/s:', avg.get())
 
         #TODO: merge sessions when within X minutes scope
 
