@@ -79,12 +79,8 @@ def main():
         log_lines = [l.strip() for l in file]
         sessions = get_sessions(log_lines)
 
-    totaldur = timedelta()
     for session in sessions:
-        dur = session.duration
-        if isinstance(dur, timedelta):
-            totaldur += dur
-            print(dur, totaldur)
+        print(session)
 
     ui.show(sessions)
 
