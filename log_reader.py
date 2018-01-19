@@ -1,41 +1,30 @@
-import configparser
-from datetime import datetime
+# TODO: UI
+# TODO: merge sessions when within X minutes scope
+# TODO: merge short sessions
+# TODO: button to insert '-------------' line into log, to flag which sessions have already been read by the log_reader
+
+from datetime import datetime, timedelta
 from tkinter import Tk, filedialog
 
-import config
+import ui
+import utils
+from utils import Average
 
 
-class Average:
-    value = count = 0.0
+class Session:
+    date_start = date_end = hashrate = duration = None
 
-    """ Search for first number in a string and add to averaged value"""
-    def add_from_string(self, val_str:str, separator:str=" "):
-        for substr in val_str.split(separator):
-            try:
-                self.value += float(substr)
-                self.count += 1
-                break
-            except:
-                pass
-
-    def get(self, decimals=2) -> float:
-        return round(self.value/max(self.count, 1), decimals)
-
-
-def interpret_groups(groups):
-    for group in groups:
-        session_start = session_end = None
-
+    def __init__(self, lines):
         # find first date in group
-        for line in group:
+        for line in lines:
             date_start = line.find('[')
             date_end = line.find(']')
             if date_start > -1 and date_end > -1:
-                session_start = datetime.strptime(line[date_start+1:date_end], '%Y-%m-%d %H:%M:%S')
+                self.date_start = datetime.strptime(line[date_start + 1:date_end], '%Y-%m-%d %H:%M:%S')
                 break
 
         # find last date in group
-        for line in reversed(group):
+        for line in reversed(lines):
             # consider only 'Result accepted' lines as the ones that finish session
             if 'Result accepted by the pool' not in line:
                 continue
@@ -43,26 +32,23 @@ def interpret_groups(groups):
             date_start = line.find('[')
             date_end = line.find(']')
             if date_start > -1 and date_end > -1:
-                session_end = datetime.strptime(line[date_start + 1:date_end], '%Y-%m-%d %H:%M:%S')
+                self.date_end = datetime.strptime(line[date_start + 1:date_end], '%Y-%m-%d %H:%M:%S')
                 break
 
         # find avg hash rates
         avg = Average()
-        for line in group:
+        for line in lines:
             if 'Totals:' in line:
                 avg.add_from_string(line)
+        self.hashrate = avg.get()
+
+        self.duration = self.date_end - self.date_start if (self.date_start and self.date_end) else "---"
+
+    def __str__(self):
+        return "    ".join([str(v) for v in [self.date_start, self.duration, self.hashrate]])
 
 
-        duration = session_end - session_start if (session_start and session_end) else "info not found"
-
-        print('--> Started at:', session_start, '  Session Duration: ', duration, '  Avg H/s:', avg.get())
-
-        #TODO: merge sessions when within X minutes scope
-
-
-def group_lines(lines):
-    # group lines by content
-
+def get_sessions(lines):
     split_on = 'Pool logged in'
     split_idxes = []
 
@@ -72,27 +58,39 @@ def group_lines(lines):
 
     split_idxes.append(len(lines))
 
-    groups = []
+    sessions_lines = []
     for x in range(0, len(split_idxes)-1):
         start, end = split_idxes[x], split_idxes[x+1]
-        groups.append(lines[start:end])
+        sessions_lines.append(lines[start:end])
 
-    return groups
+    sessions = [Session(lines) for lines in sessions_lines]
+
+    return sessions
 
 def main():
-    Tk().withdraw() # hide TK window
-    log = filedialog.askopenfile().name
+    log = utils.config_load()
 
-    config.save(log)
+    if not log:
+        Tk().withdraw()  # hide TK window
+        log = filedialog.askopenfile().name
+        utils.config_save(log)
 
     with open(log) as file:
-        lines = [l.strip() for l in file]
+        log_lines = [l.strip() for l in file]
+        sessions = get_sessions(log_lines)
 
-    if len(lines) > 0:
-        groups = group_lines(lines)
-        interpret_groups(groups)
+    totaldur = timedelta()
+    for session in sessions:
+        dur = session.duration
+        if isinstance(dur, timedelta):
+            totaldur += dur
+            print(dur, totaldur)
 
-    input() # keep console from closing
+    ui.show(sessions)
+
+    input()  # keep console from closing
+
+
 
 
 if __name__ == "__main__":
