@@ -1,8 +1,3 @@
-# TODO: UI
-# TODO: merge sessions when within X minutes scope
-# TODO: merge short sessions
-# TODO: button to insert '-------------' line into log, to flag which sessions have already been read by the log_reader
-
 from datetime import datetime, timedelta
 from tkinter import Tk, filedialog
 
@@ -81,6 +76,8 @@ def main():
 
     for session in sessions:
         print(session)
+
+
 
     ui.show(sessions)
 
