@@ -78,6 +78,13 @@ def main():
         print(session)
 
 
+    sum = timedelta()
+    for session in sessions:
+        sum += session.duration
+
+    print('summed duration:', sum)
+
+
 
     ui.show(sessions)
 
